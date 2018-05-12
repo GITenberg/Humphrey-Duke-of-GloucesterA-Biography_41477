@@ -1,0 +1,30 @@
+_repo: Humphrey-Duke-of-GloucesterA-Biography_41477
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41477-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vickers, Kenneth Hotham
+    alias: Vickers, K. H.
+    birthdate: 1881
+    deathdate: 1958
+    gutenberg_agent_id: '41192'
+    url: http://www.gutenberg.org/2009/agents/41192
+description: ''
+gutenberg_issued: '2012-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41477'
+  lccn: 09008417
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Great Britain -- Biography'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Lancaster and York, 1399-1485 -- Biography'
+- !lcsh 'Humphrey, Duke of Gloucester, 1391-1447'
+title: 'Humphrey, Duke of Gloucester: A Biography'
+url: http://www.gutenberg.org/ebooks/41477
