@@ -15,14 +15,14 @@ Release Date: November 25, 2012 [EBook #41477]
 
 Language: English
 
-Character set encoding: ISO-8859-1
+Character set encoding: ISO-8559-1
 
 *** START OF THIS PROJECT GUTENBERG EBOOK HUMPHREY DUKE OF GLOUCESTER ***
 
 
 
 
-Produced by Irma Å pehar, KD Weeks and the Online
+Produced by Irma Spehar, KD Weeks and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
 by The Internet Archive/Canadian Libraries)
@@ -176,9 +176,9 @@ CONTENTS
         Burgundy visiting Henry V. at Calais--Gloucester
         and Sigismund: a contrast in characters--Renewal of
         the war--The siege of Caen--Gloucester's military
-        qualities--The sieges of AlenÃ§on and
+        qualities--The sieges of Alençon and
         Falaise--Gloucester despatched to subdue the
-        CÃ´tentin--The CÃ´tentin expedition--The siege of
+        Côtentin--The Côtentin expedition--The siege of
         Cherbourg--Gloucester joins Henry V. at the siege
         of Rouen--Gloucester's negotiations for a
         wife--Further military undertakings: the capture of
@@ -394,7 +394,7 @@ CONTENTS
 ILLUSTRATIONS
 
 
-     Portrait of the Duke of Gloucester. From BibliothÃ¨que
+     Portrait of the Duke of Gloucester. From Bibliothèque
         de la Ville d'Arras MS., 266,                     _Frontispiece_
      [See pp. 446-447.]
                                                                     PAGE
@@ -441,7 +441,7 @@ ILLUSTRATIONS
 
 ERRATA
 
-     P. 27, l. 10, for 'AbbÃ©ville' read 'Abbeville.'
+     P. 27, l. 10, for 'Abbéville' read 'Abbeville.'
 
      P. 45, note 6, for 'Stowe' read 'Stow.'
 
@@ -487,7 +487,7 @@ He was unique in the history of his country and age, in taking an
 interest in the classical authors of Greece and Rome, who had lain
 buried beneath the accumulated dust of the Middle Ages, and to him we
 can trace the renaissance of Greek studies in England, and the revival
-of LitterÃ¦ Humaniores in the University of Oxford. The fifteenth
+of Litteræ Humaniores in the University of Oxford. The fifteenth
 century, with all its foibles and all its baseness, has been disregarded
 by many who prefer an age of heroism or an age of material progress. Yet
 the picturesque is not lacking in Duke Humphrey's career, and his
@@ -528,11 +528,11 @@ infidel in the Holy Land. Here, where German met Slav, and Christian met
 Pagan, the Knights of St. Mary found a new sphere of usefulness, after
 the military orders had become discredited, and in their war against the
 heathen Lithuanians they attracted many of the adventurous spirits of
-Christendom. Thus King John of Bohemia, who fell at CrÃ©cy, had lost his
+Christendom. Thus King John of Bohemia, who fell at Crécy, had lost his
 eyesight fighting in these North German marches, and the adventurous
 Henry of Bolingbroke, son and heir of John of Gaunt, spent some of his
 energies in helping the Teutonic knights in their wars. It was on one of
-these expeditions that at KÃ¶nigsberg news was brought to the future King
+these expeditions that at Königsberg news was brought to the future King
 Henry IV. of England that his wife had borne him a son who had been
 named Humphrey.[1] It was on November 1, 1390, that the sailor who
 carried this news received his reward as the bringer of good tidings, so
@@ -768,9 +768,9 @@ Kendal and Duke of Bedford. Though only raised to the peerage at this
 time, John had already taken his share in the duties of government, and
 before this had represented the King in several important offices of
 trust. The peerage thus conferred on Humphrey was for life only, and was
-accompanied by a modest allowance of Â£60 to be paid out of the proceeds
-of the county of Pembroke; of this Â£40 was for the maintenance of his
-dignity as Duke, and the remaining Â£20 in respect of his Earldom.[41] At
+accompanied by a modest allowance of £60 to be paid out of the proceeds
+of the county of Pembroke; of this £40 was for the maintenance of his
+dignity as Duke, and the remaining £20 in respect of his Earldom.[41] At
 once the new duke passed from insignificance to prominence. He had had
 no education in the duties and responsibilities of high rank and
 executive power, but by a stroke of the pen he became one of the chief
@@ -1006,7 +1006,7 @@ his indentures, or contracts for service, with the leading noblemen of
 the kingdom, Henry had paid them in advance for the first quarter, and
 had deposited jewels with them for the second quarter.[69] To his
 youngest brother there were pledged two purses of gold 'garnished with
-jewels' valued at Â£2000 each,[70] and from this one authority calculates
+jewels' valued at £2000 each,[70] and from this one authority calculates
 that he was intended to serve with a hundred and twenty-nine lances and
 six hundred archers.[71] However, in the unpublished collections for
 Rymer's _Foedera_ the retinue is estimated at two hundred men-at-arms
@@ -1014,7 +1014,7 @@ and six hundred horse archers,[72] which seems to be more proportionate
 to the money paid to Humphrey. If we take the wages of a man-at-arms to
 be one shilling a day and that of an archer sixpence, the sum-total with
 allowances for higher payments to bannerets and knights, and to the Duke
-himself, comes to something approaching Â£3000. The surplus of Â£1000
+himself, comes to something approaching £3000. The surplus of £1000
 might be accounted for by the fact that in some cases wages might be on
 a higher scale; indeed by 1437 a horse archer was often in receipt of
 eightpence a day.[73] Moreover, it may be that in view of the fact that
@@ -1040,7 +1040,7 @@ hundred and forty-two lances and four hundred and six archers,[75] and
 this alone would refute the estimate of a hundred and twenty-nine lances
 and six hundred archers. Moreover, it is recorded that at Harfleur he
 lost two hundred and thirty-six men,[76] though some of these were
-_valets_ and _garÃ§ons_ who did not rank as combatants, but were the
+_valets_ and _garçons_ who did not rank as combatants, but were the
 grooms of the men-at-arms and the attendants of the baggage horses.
 According to these figures his original retinue must have numbered about
 seven hundred and fifty men, and so we may reckon that he sailed from
@@ -1151,7 +1151,7 @@ the open under the fire of the besieged, and were met by countermines
 from the town, which defeated their object.[91] Throughout his excellent
 account of the siege, the author of the _Gesta Henrici Quinti_ tries the
 merits of the tactics employed on the English side by the maxims of one
-'Magister Ã†gidius.'[92] This 'Master Giles' must have been Ã†gidius
+'Magister Ægidius.'[92] This 'Master Giles' must have been Ægidius
 Romanus who wrote _De Regimine Principum_, a work very popular at the
 time, though it dated from a period before cannon were used. It was
 probably from this book that Gloucester obtained some of his knowledge
@@ -1227,7 +1227,7 @@ Gloucester took no part in the management of the army; not once does his
 name appear in the pages of any chronicler till the day of Agincourt.
 His post till then was with the main body under the King himself, while
 Sir John Cornwall led the van, and the Duke of York with the Earl of
-Oxford commanded the rear.[113] Passing FÃ©camp and Arques, the English
+Oxford commanded the rear.[113] Passing Fécamp and Arques, the English
 army met with some slight resistance at Eu,[114] but without delaying
 there went on towards Abbeville, where Henry had intended to cross the
 Somme. News, however, came through a Gascon prisoner that the bridges
@@ -1282,7 +1282,7 @@ in the fight.[124] Ultimately those in favour of action prevailed, and
 the Constable d'Albret took command of the first division of dismounted
 cross-bowmen and archers, these last, however, being put behind the
 first line and thus rendered useless. Next came the Dukes of Bar and
-AlenÃ§on leading the second division, and behind them again were the
+Alençon leading the second division, and behind them again were the
 Counts of Marle, Dammartin, and Fauquenberg. Cavalry were posted on
 either flank.[125] The Duke of Burgundy was unrepresented in the army,
 as he had forbidden his vassals to serve under any one but himself, and
@@ -1329,7 +1329,7 @@ exposing himself to every danger and fighting like a lion.[134]
 1415] VALOUR OF GLOUCESTER
 
 But his courage, bordering on rashness,[136] took him too far in advance
-of his men, and when AlenÃ§on, having rallied some of the second
+of his men, and when Alençon, having rallied some of the second
 division, together with those of the third division who had not fled
 without striking a blow, broke into the English ranks and caught him
 unawares, Gloucester fell severely wounded 'in the hammes,' and lay
@@ -1340,7 +1340,7 @@ wounded duke had been removed to a place of safety.[137]
 
 By the time that this was accomplished the day was won. The last effort
 of the French, which had almost proved fatal to Humphrey, had been
-checked, and AlenÃ§on himself lay dead upon the field. Beyond a scare
+checked, and Alençon himself lay dead upon the field. Beyond a scare
 caused by the belief that some of the flying enemy who sacked the
 English baggage in the rear were reinforcements sent from Paris--a
 mistake which caused the cold-blooded murder of many French prisoners of
@@ -1372,7 +1372,7 @@ his own quarrel.
 
 The English losses were but few, though even hardened soldiers were
 appalled at the heaps of French dead lying on the field, including the
-Constable d'Albret, the Admiral Dampierre, and the Dukes of AlenÃ§on,
+Constable d'Albret, the Admiral Dampierre, and the Dukes of Alençon,
 Bar, and Brabant, the last being Burgundy's brother who had only reached
 the battle when the day was lost.[142] On the English side the Duke of
 York and the Earl of Suffolk--son of the man who died before
@@ -1496,7 +1496,7 @@ FOOTNOTES:
 
   [44] _Ibid._, iv. 24.
 
-  [45] Basin, i. 5, 6; St. RÃ©my also hints this.
+  [45] Basin, i. 5, 6; St. Rémy also hints this.
 
   [46] The original MS. of this treaty is preserved at Dijon. See De
          Beaucourt, i. 132, 133.
@@ -1507,9 +1507,9 @@ FOOTNOTES:
 
   [49] Des Ursins, 500.
 
-  [50] See St. RÃ©my, 586.
+  [50] See St. Rémy, 586.
 
-  [51] Walsingham, _Hist. Angl._, ii. 305; St. RÃ©my, 387, 388; St.
+  [51] Walsingham, _Hist. Angl._, ii. 305; St. Rémy, 387, 388; St.
          Denys, v. 499.
 
   [52] _Ordinances_, ii. 153.
@@ -1531,7 +1531,7 @@ FOOTNOTES:
          agreement impossible.
 
   [57] Monstrelet, 363; Walsingham, _Hist. Angl._, ii. 305; St. Denys,
-         v. 513-525; St. RÃ©my, 387, 388; Redmayne, 32-37.
+         v. 513-525; St. Rémy, 387, 388; Redmayne, 32-37.
 
   [58] Holkham MS., p. 13, ascribes the discovery of the conspiracy to
          the 'prudence and careful circumspection' of Gloucester.
@@ -1542,7 +1542,7 @@ FOOTNOTES:
          King by an elder line than Henry V., who claimed through John
          of Gaunt, the younger brother of Lionel, Duke of Clarence.
 
-  [60] St. RÃ©my. 389.
+  [60] St. Rémy. 389.
 
   [61] Walsingham, _Hist. Angl._, ii. 306, 307.
 
@@ -1621,7 +1621,7 @@ FOOTNOTES:
 
   [92] _Gesta_, 26.
 
-  [93] _Epist. Acad._, 237. For a short account of Ã†gidius de Columna
+  [93] _Epist. Acad._, 237. For a short account of Ægidius de Columna
          (Romanus), who lived from 1296 to 1316, see W. Cave,
          _Scriptorum Ecclesiasticorum Historia Literaria_ (Oxford,
          1743), ii. 340.
@@ -1639,7 +1639,7 @@ FOOTNOTES:
 
   [99] St. Denys, v. 542.
 
-  [100] St. RÃ©my, 391. The two castles at the mouth of the harbour
+  [100] St. Rémy, 391. The two castles at the mouth of the harbour
          held out for two more days; Waurin, ii. 187.
 
   [101] 'Le souverain port de toute Northmandie, et le plus
@@ -1658,7 +1658,7 @@ FOOTNOTES:
 
   [106] Livius, 10.
 
-  [107] _Gesta_, 34; St. RÃ©my, 391. Complaint of the Sieur de Gaucourt
+  [107] _Gesta_, 34; St. Rémy, 391. Complaint of the Sieur de Gaucourt
          printed in Nicholas's _Agincourt_, App. VI. p. 25.
 
   [108] Rymer, IV. ii. 147.
@@ -1685,46 +1685,46 @@ FOOTNOTES:
   [115] _Gesta_, 39; Hardyng's _Journal_, 390; Waurin, ii. 191;
          Monstrelet, 371.
 
-  [116] St. RÃ©my, 393. Cf. Waurin, ii, 191.
+  [116] St. Rémy, 393. Cf. Waurin, ii, 191.
 
   [117] _Gesta_, 42. Stow, 349, attributes these stakes to the
          forethought of the Duke of York.
 
   [118] Walsingham, _Hist. Angl._, ii. 310.
 
-  [119] _Gesta_, 43, 44; St. RÃ©my, 393; Waurin, ii. 193; Monstrelet,
+  [119] _Gesta_, 43, 44; St. Rémy, 393; Waurin, ii. 193; Monstrelet,
          371.
 
   [120] Livius, 14; Elmham, _Vita_, 54, 55; Waurin, ii. 195; _Gesta_,
          45.
 
-  [121] Monstrelet, 373; St. RÃ©my, 396; Elmham, _Vita_, 58, 59.
+  [121] Monstrelet, 373; St. Rémy, 396; Elmham, _Vita_, 58, 59.
 
-  [122] _Gesta_, 47; Livius, 16; St. RÃ©my, 396.
+  [122] _Gesta_, 47; Livius, 16; St. Rémy, 396.
 
-  [123] St. RÃ©my, 397, 399.
+  [123] St. Rémy, 397, 399.
 
   [124] Des Ursins, 518.
 
-  [125] Waurin, ii. 211; St. RÃ©my, 399; _Gesta_, 49.
+  [125] Waurin, ii. 211; St. Rémy, 399; _Gesta_, 49.
 
-  [126] Monstrelet, 369; St. RÃ©my, 395. For the letters which passed
+  [126] Monstrelet, 369; St. Rémy, 395. For the letters which passed
          between the Duke of Burgundy and the King of France at this
          time, see Des Ursins, 510-518.
 
-  [127] _Gesta_, 50; St. RÃ©my, 397; Redmayne, 43.
+  [127] _Gesta_, 50; St. Rémy, 397; Redmayne, 43.
 
-  [128] St. RÃ©my. 400.
+  [128] St. Rémy. 400.
 
   [129] _Gesta_, 50; Basin, i. 20.
 
-  [130] St. RÃ©my, 398. Cf. Des Ursins, 520.
+  [130] St. Rémy, 398. Cf. Des Ursins, 520.
 
   [131] Des Ursins, 518.
 
-  [132] _Gesta_, 52; St. RÃ©my, 400.
+  [132] _Gesta_, 52; St. Rémy, 400.
 
-  [133] _Gesta_, 53; St. RÃ©my, 400.
+  [133] _Gesta_, 53; St. Rémy, 400.
 
   [134] Livius, 20; _Gesta_, 59.
 
@@ -1744,7 +1744,7 @@ FOOTNOTES:
   Elmham, _Liber Metricus_, 121.
 
 
-  [138] _Gesta_, 55; Livius, 20; Elmham, _Vita_, 68; St. RÃ©my, 401.
+  [138] _Gesta_, 55; Livius, 20; Elmham, _Vita_, 68; St. Rémy, 401.
 
   [139] _Gesta_, 59.
 
@@ -1757,7 +1757,7 @@ FOOTNOTES:
 
   [143] _Gesta_, 58; Walsingham, _Hist. Angl._, ii. 313.
 
-  [144] St. RÃ©my, 402; _Lond. Chron._, 102; _Gesta_, 59; Elmham,
+  [144] St. Rémy, 402; _Lond. Chron._, 102; _Gesta_, 59; Elmham,
          _Vita_, 71. There is a long account of the entry into London
          in the _Gesta_, 61-68, and in Lydgate's poem printed in
          _Lond. Chron._, 231-233.
@@ -1780,7 +1780,7 @@ space he will be found aping the ambitions of his grandfather, striving
 for recognition as prince of an European state; finally, the third and
 most lasting phase of his career will find him amidst the unlovely
 strife of party politics. Soldier, Pretender, Politician, in all these
-rÃ´les Humphrey stands forth as a distinct personality. Not that he has
+rôles Humphrey stands forth as a distinct personality. Not that he has
 the great gifts of concentration and consistency, not that he is one of
 those happy men who have a gospel to preach and know it; he was of all
 men lacking in determination, and if his policy does not waver, his
@@ -1869,7 +1869,7 @@ recognisable under his later title of John Talbot, Earl of
 Shrewsbury--went down to meet Sigismund at Dover, where the castle was
 made ready for his reception.[155] This was the Duke's first official
 visit to the Cinque Ports, and the occasion was celebrated by a solemn
-reception at the Shepway, and a present of Â£100 from the towns under his
+reception at the Shepway, and a present of £100 from the towns under his
 command.[156]
 
 1416] SIGISMUND IN ENGLAND
@@ -1975,7 +1975,7 @@ Robert Waterton were then sent over to secure a signed and sealed
 security for the safety of the English prince, and when this had been
 given the Burgundian troops came out and faced the English across the
 river. The retainers of both parties passed over first, and then the
-principals, with a touch of that mediÃ¦val ceremonial which
+principals, with a touch of that mediæval ceremonial which
 characterised the men of the new age, rode into the water from the
 opposite sides, and shaking hands in mid-stream, passed on, Burgundy to
 be met by the Earl of Warwick and escorted to Calais, Gloucester to be
@@ -2037,11 +2037,11 @@ future life, too, both were to find themselves opposed to a faction
 which prated of constitutionalism, and schemed but for its own
 aggrandisement. But deep down in the roots of their mental attitude we
 see a great dissimilarity. Sigismund lived in a world of ideas conceived
-in the spirit of mediÃ¦valism; he looked to the past to correct the
+in the spirit of mediævalism; he looked to the past to correct the
 future. On the other hand, Gloucester had drunk deep of the new ideas,
 which had begun to influence men's minds; he had grasped that spirit of
 nationalism, which was to sweep away the traditional forces of
-mediÃ¦valism, and give birth to the nations of Europe; he had experience
+mediævalism, and give birth to the nations of Europe; he had experience
 of a campaign, in which the tactics and the weapons of a new era had
 been used; he was beginning to perceive the true significance of the
 rising importance of the middle classes. With all his selfishness and
@@ -2201,7 +2201,7 @@ that it was more as an artilleryman than in any other capacity that he
 was particularly prominent. The suggestion of this given at the siege of
 Harfleur is confirmed by the fact that he was immediately appointed to
 the command of the guns in this second campaign; his genius was not that
-of the mediÃ¦val soldiers. New forces had come to change the world and to
+of the mediæval soldiers. New forces had come to change the world and to
 help on the evolution of the race. In later life Humphrey was to shine
 forth as the patron of the new learning which was the most important of
 these forces; in his earlier life he showed that he was ready to accept
@@ -2251,7 +2251,7 @@ surrendered without resistance, and numerous other fortified places gave
 in their allegiance to the English King.[209] Having settled the country
 and left small garrisons in the towns, with Sir John Kirkby in command
 at Lisieux,[210] Gloucester rejoined his brother, who having left Caen
-on October 1, had sat down before AlenÃ§on on the 15th of that
+on October 1, had sat down before Alençon on the 15th of that
 month.[211] All through this expedition Gloucester was never out of
 touch with the main body of the army, but was entirely under the control
 of the King. Except at the short siege of Bayeux, he had met with
@@ -2263,9 +2263,9 @@ protection to all who swore allegiance to him,[212] that this little
 excursion partook more of the nature of a pacific procession than of a
 warlike campaign.
 
-1417] THE SIEGE OF ALENÃ‡ON
+1417] THE SIEGE OF ALENÇON
 
-AlenÃ§on, before which Gloucester now found himself, was a position of
+Alençon, before which Gloucester now found himself, was a position of
 considerable strength, fortified by stout walls, numerous towers, and a
 castle which nature and the skill of man had made almost impregnable;
 added to this during the first few days of the siege the garrison
@@ -2282,17 +2282,17 @@ and Fresnoy surrendered, and the whole country up to and including La
 Marche acknowledged the English supremacy.[215]
 
 Gloucester did not take part in these expeditions, but stayed with the
-King, who spent some time in AlenÃ§on. Negotiations were pending with the
+King, who spent some time in Alençon. Negotiations were pending with the
 French court, which had returned a conciliatory answer to the challenge
 from Caen, whilst the Duke of Brittany, frightened by the success of the
-English troops, proceeded to AlenÃ§on and there on November 16 signed a
+English troops, proceeded to Alençon and there on November 16 signed a
 truce, which was to last till the following Michaelmas, on behalf of
 himself and of the young titular King of Sicily, whose possessions in
 Maine and Anjou were threatened.[216] It was a niece of this Lewis who
 in later years was to marry Henry's yet unborn son, and who was to prove
 the bitterest of Humphrey's many enemies.
 
-Towards the end of November Henry moved from AlenÃ§on; Gloucester
+Towards the end of November Henry moved from Alençon; Gloucester
 accompanied him, leaving Sir Roland Lyntall in his place as lieutenant
 of the town, for of this last conquest the King had made him
 captain.[217]
@@ -2300,7 +2300,7 @@ captain.[217]
 1417] THE SIEGE OF FALAISE
 
 On December 1 the English army appeared before Falaise, which had been
-left untouched on the way to AlenÃ§on, as Henry had thought it too well
+left untouched on the way to Alençon, as Henry had thought it too well
 fortified to be attacked before the surrounding country was secured.
 Certainly Falaise was no easy nut to crack. Beside excellent
 fortifications a deep natural moat surrounded the town, into which
@@ -2308,10 +2308,10 @@ flowed numerous streams from the mountains, thus forming a natural lake
 which prevented a near approach; high upon a rock, just outside but
 connected with the walls, stood the castle in a position which was
 considered quite impregnable[218]--that same castle which to-day with
-its added Talbot tower is one of the most interesting mediÃ¦val relics in
+its added Talbot tower is one of the most interesting mediæval relics in
 northern France. The Earl of Salisbury had preceded the King to Falaise
 lest the garrison, warned by the French ambassadors returning from
-AlenÃ§on, should evacuate the town before the arrival of the English; so
+Alençon, should evacuate the town before the arrival of the English; so
 at least runs one theory,[219] though a more probable object was to
 prevent the garrison from laying in stores, which would enable them to
 prolong the siege.[220] The siege proper began on Henry's arrival, and
@@ -2377,9 +2377,9 @@ war for the present.[229] Arrangements therefore were made in accordance
 with these intentions before the King left Falaise. To Clarence was
 confided the task of opening up the approach to Rouen; Warwick was sent
 to capture Domfront, and to secure the south-eastern corner of the
-duchy; Gloucester was to reduce the CÃ´tentin to obedience.[230]
+duchy; Gloucester was to reduce the Côtentin to obedience.[230]
 
-1418] THE CÃ”TENTIN EXPEDITION
+1418] THE CÔTENTIN EXPEDITION
 
 All this had been planned by the King while the castle of Falaise was
 still untaken, for he signed Gloucester's commission on February 16, the
@@ -2390,7 +2390,7 @@ peace all those who should submit to him, and to restore their lands and
 possessions to them under his own seal.[231] At the same time he was
 empowered to issue ordinances for the good government of his detachment,
 and to punish any who should transgress them,[232] also the right to
-levy tribute in the CÃ´tentin was confined to himself and his
+levy tribute in the Côtentin was confined to himself and his
 representatives.[233] Meanwhile preparations for the three expeditions
 were being hurried on, orders for the mustering of the men of the
 respective commanders were issued,[234] and Gloucester, acting on a writ
@@ -2417,7 +2417,7 @@ help to the various detachments he had sent out, should this prove to be
 necessary, he chose the town of Bayeux for this purpose.[239] This town
 was far nearer to the scene of Gloucester's activity than to the
 districts in which Clarence and Warwick were operating, and yet
-Cherbourg was the only place in the CÃ´tentin that was likely to give
+Cherbourg was the only place in the Côtentin that was likely to give
 serious opposition. However, by April Henry was satisfied of his
 brother's reliability, and returned to Caen. His suspicions,
 nevertheless, were well founded, for Gloucester's inability for
@@ -2430,7 +2430,7 @@ Gloucester lost no time in making his preparations, for he probably left
 Falaise on the same day as his commission was signed. Crossing the river
 Orne, he worked up the bank of a small tributary stream named the
 Noireau, and gained his first success in the capture of the little town
-of CondÃ©-sur-Noireau.[240] Marching still further west he reached Vire,
+of Condé-sur-Noireau.[240] Marching still further west he reached Vire,
 a place of considerable strength, situated on the river of that name. A
 short siege convinced the town that they could have no hope of relief,
 and it capitulated on February 21. Sir John Robsart and William
@@ -2490,13 +2490,13 @@ pardoning all rebels--so Henry called them--who should swear fealty to
 the King before April next.[249] Meanwhile the Earl of Huntingdon had
 been sent to the south-east of Normandy, and on March 16 he had secured
 Gloucester's rear by the capture of Coutances. His expedition was
-independent of the commander in the CÃ´tentin, but the likelihood of
+independent of the commander in the Côtentin, but the likelihood of
 their joining forces seems to be recognised by the terms of Huntingdon's
 Commission.[250] However, no such union took place, as before long the
 latter was hurrying eastward to take part in the siege of Rouen.[251]
 
 Still marching northward from St. Sauveur le Vicomte, Gloucester took
-NÃ©hou,[252] Bricquebec, and Valognes, thus having reduced the whole
+Néhou,[252] Bricquebec, and Valognes, thus having reduced the whole
 district with the exception of the town of Cherbourg.[253] In all, it
 was estimated, he had taken thirty-two castles in six weeks, with very
 little trouble and hardly any loss of life.[254] One of the hardest
@@ -2757,7 +2757,7 @@ that towards the end of October he arrived at Rouen.
        *       *       *       *       *
 
 While Gloucester had been besieging Cherbourg, and reducing the
-CÃ´tentin, the King had not been idle. He had spent three months at
+Côtentin, the King had not been idle. He had spent three months at
 Bayeux and Caen in creating the machinery for the administration of the
 duchy, which hitherto had been under military law. At the same time he
 sent to England for reinforcements, and on their arrival in May he
@@ -2774,7 +2774,7 @@ agreement with Burgundy, had so enraged the Parisians that a mob
 revolution in favour of Burgundy and Queen Isabella, who had come to
 terms with one another in 1417, was made easy. In June Bernard, Count of
 Armagnac, and many of his adherents were murdered by the populace.
-Tanneguy du ChÃ¢tel and the Dauphin escaped from the city with
+Tanneguy du Châtel and the Dauphin escaped from the city with
 difficulty, and Burgundy was acclaimed with shouts of welcome as he
 entered Paris.[282] In this position his answer to a pursuivant sent by
 Henry was a declaration of war.[283]
@@ -2883,7 +2883,7 @@ capital.[305]
 
 After the conquest of Rouen the English captains were sent with small
 detachments to clear the country. Salisbury to the north secured
-Montivilliers, Honfleur, FÃ©camp, Dieppe, and Eu; Clarence went up the
+Montivilliers, Honfleur, Fécamp, Dieppe, and Eu; Clarence went up the
 Seine valley taking Vernon and Nantes, and many other smaller towns in
 the immediate neighbourhood submitted.[306] Gloucester stayed with his
 royal brother at Rouen, as he had been made captain of the city,[307]
@@ -2894,7 +2894,7 @@ the recent siege ambassadors had been passing between the various
 parties, and at one time the Dauphin offered terms,[308] at another the
 French King, under the influence of Burgundy, sent a portrait of his
 daughter Catherine, whose name had appeared in most of the
-negotiations.[309] Conferences at AlenÃ§on with Armagnac, or at Pont de
+negotiations.[309] Conferences at Alençon with Armagnac, or at Pont de
 l'Arche with Burgundian emissaries, were alike fruitless. Still Henry
 persevered. Arrangements were made at Rouen for a personal meeting with
 the Dauphin at Evreux on March 8,[310] but when Henry reached the
@@ -2914,7 +2914,7 @@ chamberlains, William Beauchamp and John Stokes 'Dr. of Laws,' to care
 for his interests in that quarter, but his hopes of a wife at that time
 were to be short-lived.[314] On April 20 Charles de Beaumont, who
 represented Henry at the court of Navarre, and had recently served under
-Gloucester in the CÃ´tentin, informed him that negotiations were pending
+Gloucester in the Côtentin, informed him that negotiations were pending
 for the marriage of Blanche to Don John of Arragon, asserting that
 Henry's delays in stating definitely what lands in Guienne he would give
 Gloucester on his wedding had so annoyed Charles, that it was unlikely
@@ -3119,10 +3119,10 @@ FOOTNOTES:
   [174] Rymer, IV. ii. 176; _Cal. of French Rolls_, Rep. 44, App. 584.
 
   [175] _Gesta_, 100, 101; Gregory, 114; Capgrave, _De Illustrious
-         Henricis_, 120; Waurin, ii. 236; St. RÃ©my, 410; Monstrelet,
+         Henricis_, 120; Waurin, ii. 236; St. Rémy, 410; Monstrelet,
          393.
 
-  [176] Waurin, ii. 236, 237; St. RÃ©my, 410.
+  [176] Waurin, ii. 236, 237; St. Rémy, 410.
 
   [177] Monstrelet, 394, followed by Holinshed, iii. 87.
 
@@ -3158,7 +3158,7 @@ FOOTNOTES:
 
   [188] Elmham, _Vita_, 97.
 
-  [189] Basin, i. 26. See also Waurin, ii. 242; St. RÃ©my, 429; Livius,
+  [189] Basin, i. 26. See also Waurin, ii. 242; St. Rémy, 429; Livius,
          34.
 
   [190] _Rot. Norm._, 316, 317.
@@ -3196,7 +3196,7 @@ FOOTNOTES:
 
   [205] Livius, 38, 39; Walsingham, _Hist. Angl._, ii. 324; Elmham,
          _Vita_, 107-111; _Gesta_, 114. See also Waurin, ii. 244;
-         Monstrelet, 426; St. RÃ©my, 429 and 422. On September 5 the
+         Monstrelet, 426; St. Rémy, 429 and 422. On September 5 the
          castle agreed to surrender, if not relieved before the 19th.
          Delpit, _Doc. Fr._, pp. 220, 221, Nos. CCCXXXIX., CCCXL.
 
@@ -3264,11 +3264,11 @@ FOOTNOTES:
   [228] Waurin, ii. 242.
 
   [229] Walsingham, _Hist. Angl._, ii. 248; Walsingham, _Ipodigma
-         NeustriÃ¦_, 486; Elmham, _Vita_, 139, 140; Gesta, 119, 120;
+         Neustriæ_, 486; Elmham, _Vita_, 139, 140; Gesta, 119, 120;
          _Chronique de Normandie_, 182; Gregory, 121.
 
   [230] Walsingham, _Hist. Angl._, ii. 328; Walsingham, _Ipodigma
-         NeustriÃ¦_, 486; Elmham, _Vita_, 139, 140; Gesta, 119, 120;
+         Neustriæ_, 486; Elmham, _Vita_, 139, 140; Gesta, 119, 120;
          _Chronique de Normandie_, 182; Gregory, 121.
 
   [231] _Rot. Norm._, 248; Rymer, IV. iii. 362.
@@ -3335,7 +3335,7 @@ FOOTNOTES:
          called 'Nehoo.' Pont Douve was captured by Gloucester (Rymer,
          IV. iii. 44; _Cal. of Norman Rolls_, Rep. 41, App. I. 746),
          but it is not the same place as this, which is obviously
-         NÃ©hou, a place situated four kilometers from St. Sauveur le
+         Néhou, a place situated four kilometers from St. Sauveur le
          Vicomte. I cannot locate Pont Douve, but should gather from
          the date of surrender that it was near Carentan on the Douve,
          for it fell on March 17, the day after Carentan. This is the
@@ -3354,7 +3354,7 @@ FOOTNOTES:
 
   [255] Stow, 356.
 
-  [256] Walsingham, _Ipodigma NeustriÃ¦_, 486; Gregory, 120.
+  [256] Walsingham, _Ipodigma Neustriæ_, 486; Gregory, 120.
 
   [257] Livius, 51; Elmham, _Vita_, 148.
 
@@ -3365,7 +3365,7 @@ FOOTNOTES:
   [260] Even at the end of the siege there was abundance of corn and
          wine in the city. Elmham, _Vita_, 163.
 
-  [261] Walsingham, _Ipodigma NeustriÃ¦_, 486; Gregory, 120.
+  [261] Walsingham, _Ipodigma Neustriæ_, 486; Gregory, 120.
 
   [262] Elmham, _Vita_, 148; Livius, 52.
 
@@ -3404,7 +3404,7 @@ FOOTNOTES:
          would compel us to conclude that before the siege of
          Cherbourg Humphrey had at his disposal some 2000 men. This
          is confirmed by taking a list of men serving under the Duke
-         in the CÃ´tentin. It is compiled from the statements of the
+         in the Côtentin. It is compiled from the statements of the
          chroniclers and from the official records which give the
          names of those who acted for Gloucester in the matter of
          signing terms with the various towns. The retinues are taken
@@ -3431,7 +3431,7 @@ FOOTNOTES:
          same time allowance can be made for possible contingents
          which, though in the field, are not mentioned. _Chron.
          Norm._, 230, tells us that at the beginning of the campaign
-         Talbot was sent into the CÃ´tentin with 500 or 600 men, and
+         Talbot was sent into the Côtentin with 500 or 600 men, and
          Gloucester went to open up the road to Rouen. This may be a
          mere mistake of names, and so Humphrey may have only had a
          small force, little in excess of his own retinue, when he
@@ -3488,12 +3488,12 @@ FOOTNOTES:
 
   [291] Elmham, _Vita_, 182; Livius, 62.
 
-  [292] Waurin, ii. 247; St. RÃ©my, 431.
+  [292] Waurin, ii. 247; St. Rémy, 431.
 
   [293] Waurin, ii. 249.
 
-  [294] John Page, 20; Waurin, ii. 253; Elmham, _Vita_, 192; St. RÃ©my,
-         432. St. RÃ©my says that Henry fired on these people, and both
+  [294] John Page, 20; Waurin, ii. 253; Elmham, _Vita_, 192; St. Rémy,
+         432. St. Rémy says that Henry fired on these people, and both
          he and Waurin say that they were ultimately taken back into
          the town.
 
@@ -3501,7 +3501,7 @@ FOOTNOTES:
 
   [296] John Page, 18.
 
-  [297] Waurin, ii. 257; St RÃ©my. 433.
+  [297] Waurin, ii. 257; St Rémy. 433.
 
   [298] John Page, 21.
 
@@ -3596,7 +3596,7 @@ FOOTNOTES:
 
   [325] _Cal. of Norman Rolls_, Rep. 41, App. I. 789.
 
-  [326] Waurin, ii. 276; Elmham, _Vita_, 227-231; St. RÃ©my, 438.
+  [326] Waurin, ii. 276; Elmham, _Vita_, 227-231; St. Rémy, 438.
 
   [327] He was still at Mantes on August 5, when he wrote to tell the
          Londoners of the capture of Pontoise. Delpit, _Doc. Fr._, p.
@@ -3695,7 +3695,7 @@ produce, and it is at this time that such companies as the Merchant
 Adventurers rose to great power. This change from the production of raw
 material to the manufacture of the finished article not only gave a new
 power to the middle classes, but it had its influence also in bringing
-the English town into greater prominence. 'MediÃ¦val economy, with its
+the English town into greater prominence. 'Mediæval economy, with its
 constant regard to the relations of persons, was giving place to the
 modern economy, which treats the exchange of things as fundamental,' and
 this resulted in increased power to those corporate bodies which were
@@ -3911,7 +3911,7 @@ confidence of the country in their King, and to encourage fresh
 sacrifices of men and money for a new campaign.[364] The necessity for
 renewed effort became still more apparent when, on leaving the shrine of
 St. John of Beverley, news reached them that Clarence had been defeated
-and slain at BeaugÃ© in March.[365] Having celebrated the Feast of St.
+and slain at Beaugé in March.[365] Having celebrated the Feast of St.
 George somewhat later than the appointed day,[366] Henry opened a
 Parliament on May 2,[367] and immediately began to prepare for another
 expedition to France. Gloucester, of whom we have heard nothing since
@@ -3959,7 +3959,7 @@ his proposed bride, and possessing qualities which would make the life
 of a young and spirited woman wholly unbearable. However, considerations
 of policy induced her relatives to force Jacqueline into this
 undesirable alliance, with the result which might have been expected.
-John fell entirely into the hands of his BrabanÃ§on followers, who
+John fell entirely into the hands of his Brabançon followers, who
 induced him to add insult to the neglect with which he treated his
 young wife, and the culminating-point was reached when in Jacqueline's
 absence he arranged for the disposal of her territory for a term of
@@ -4026,7 +4026,7 @@ before the public weal.
 Henry emphasised his hearty invitation to Jacqueline by the marked
 graciousness of his reception of her; and though he was on the eve of
 departure to France, he promised to help her, and made arrangements,
-completed on July 10, that Â£100 a month should be allotted to the
+completed on July 10, that £100 a month should be allotted to the
 Countess so long as she remained in England.[379] To Henry belongs the
 responsibility of bringing her over, and we cannot doubt that he saw the
 political significance of his action. He knew the state of affairs in
@@ -4066,7 +4066,7 @@ fortnight later Henry sailed from Dover, and landed the same day at
 Calais,[388] accompanied by Gloucester and the Earls of March and
 Warwick, with rather over a thousand men.[389]
 
-The defeat at BeaugÃ© had not been without its effect both in encouraging
+The defeat at Beaugé had not been without its effect both in encouraging
 the French and in distressing the English. It had not been easy to raise
 men in England, as Gloucester had found, and it was necessary in many
 cases to resort to impressment. Accordingly Henry took the precaution of
@@ -4266,7 +4266,7 @@ patriotism, and not 'busied restless minds with foreign quarrels.'
 A fresh page of history begins with the death of Henry V., and new
 personalities appear in the forefront of politics. The character of the
 young King Henry VI. is a negligible quantity, for he was only nine
-months old: 'Vae cujus terrÃ¦ rex puer est,' quotes Walsingham,[413] and
+months old: 'Vae cujus terræ rex puer est,' quotes Walsingham,[413] and
 indeed it was mainly the youth of the King which gave such a character
 to his reign, as to fully justify Hall's description thereof; it was in
 very truth to be 'the troubleous season of Kyng Henry the Sixt.'[414]
@@ -4673,11 +4673,11 @@ the legitimate and the illegitimate descendants of John of Gaunt.
 In the new year Gloucester's salary as Protector was definitely settled.
 On February 12 it was decreed by an ordinance of the Privy Council, that
 so long as he remained Protector he should receive eight thousand marks
-(Â£5333, 6s. 8d.) a year, dating from the death of the late King. Four
+(£5333, 6s. 8d.) a year, dating from the death of the late King. Four
 thousand marks of this was to be drawn from the issues of the Duchy of
 Lancaster, and nine hundred marks from possessions in the King's
 hands.[446] In the previous December Gloucester had been given a present
-of Â£300 and the revenues of foresters, park-keepers, and keepers of
+of £300 and the revenues of foresters, park-keepers, and keepers of
 warrens which were vacant. These revenues were not given to the Duke in
 his private capacity, but were attached to the office of Protector, for
 Bedford was to receive them whenever he was in England.[447] On March 3
@@ -4757,7 +4757,7 @@ of Scotland had been taken prisoner, and it is probable that Humphrey
 and he had been fast friends ever since their boyhood. It was natural,
 therefore, that the Protector should take a leading part in the
 negotiations which were leading up to his release. On September 10 a
-treaty was signed at York, in which the Scotch agreed to pay Â£40,000 for
+treaty was signed at York, in which the Scotch agreed to pay £40,000 for
 their King's maintenance in England, and to withhold further support
 from the French; allusion was also made to a conditional marriage with
 some high-born English lady.[459] James had fallen deeply in love with
@@ -4864,7 +4864,7 @@ FOOTNOTES:
          abroad that James was going to help Gloucester in Hainault
          with 8000 Scotch. Dynter, iii. 465.
 
-  [347] Waurin, ii. 280-294; St. RÃ©my, 439-442; Monstrelet, 460-465;
+  [347] Waurin, ii. 280-294; St. Rémy, 439-442; Monstrelet, 460-465;
          Des Ursins, 553, 554.
 
   [348] _Cal. of Norman Rolls_, Rep. 42, App. 337; Chastellain, 25-29;
@@ -4911,7 +4911,7 @@ FOOTNOTES:
   [364] Walsingham, _Hist. Angl._, ii. 337; Waurin, ii. 344; Elmham,
          _Vita_, 300-1.
 
-  [365] Elmham, _Vita_, 304; St. RÃ©my, 454; Walsingham, _Hist. Angl._,
+  [365] Elmham, _Vita_, 304; St. Rémy, 454; Walsingham, _Hist. Angl._,
          ii. 339.
 
   [366] Walsingham, _Hist. Angl._, ii. 339.
@@ -4924,7 +4924,7 @@ FOOTNOTES:
          citizen party, and the Hooks (those who were to catch them)
          consisted of nobles.
 
-  [370] St. RÃ©my, 453.
+  [370] St. Rémy, 453.
 
   [371] For the causes of quarrel between John of Brabant and
          Jacqueline see Chastellain, 69.
@@ -4935,7 +4935,7 @@ FOOTNOTES:
          Lodowicum Robishert voluntarie de ducta' (_Chron. Henry VI._,
          6). A certain 'Lewis de Robstart' was left by Henry as his
          representative with Catherine between the Convention of
-         Troyes and his marriage (St. RÃ©my, 443). Also a certain
+         Troyes and his marriage (St. Rémy, 443). Also a certain
          'Lodovico Robersart' was an executor of Henry V.'s will
          (_Rot. Parl._, iv. 172), and this man was also a supervisor
          of the Duke of Exeter's will (_Testamenta Vetusta_, i. 210).
@@ -4950,7 +4950,7 @@ FOOTNOTES:
          Nero, D. 7, f. 147); also a Sir John Robsart was naturalised
          on October 20, 1423 (Rymer, IV. iv. 103). There was a John de
          Robsart whom we have seen serving under Gloucester in the
-         CÃ´tentin expedition. If this is the man who brought
+         Côtentin expedition. If this is the man who brought
          Jacqueline over, the inference is that Gloucester was partly
          responsible for her flight to England. A Sir Lewis Robsart
          also took part under Gloucester in the fighting before
@@ -4959,7 +4959,7 @@ FOOTNOTES:
 
   [374] Chastellain, 70.
 
-  [375] St. RÃ©my, 453.
+  [375] St. Rémy, 453.
 
   [376] _Ordinances_, ii. 241.
 
@@ -4972,13 +4972,13 @@ FOOTNOTES:
   [380] Letters discovered at Lille seem to prove that Henry not only
          encouraged Jacqueline to flee to England, but also favoured
          her marriage with Gloucester as a help towards his policy of
-         strengthening his position in France. See BeitrÃ¤ge, i. 48.
+         strengthening his position in France. See Beiträge, i. 48.
 
-  [381] Miss Putnam (_MediÃ¦val Princess_, p. 86) suggests that
+  [381] Miss Putnam (_Mediæval Princess_, p. 86) suggests that
          Gloucester had met Jacqueline on the way home from Dordrecht.
          Leopold Devilliers in the preface to vol. iv. of
-         _Cartulaire_, p. xxvi, says, 'Leur liaison remontait Ã 
-         l'Epoque oÃ¹ ils s'Ã©taient vus en France pour la premiÃ¨re
+         _Cartulaire_, p. xxvi, says, 'Leur liaison remontait à
+         l'Epoque où ils s'étaient vus en France pour la première
          fois,' but he does not say when this hypothetical meeting
          took place.
 
@@ -4995,8 +4995,8 @@ FOOTNOTES:
 
   [386] _Cal. of French Rolls_, Rep. 44, App. 624; Rymer, IV. iv. 27.
 
-  [387] Rymer, IV. iv. 27. Miss Putnam (_MediÃ¦val Princess_, 89),
-         following LÃ¶her (BeitrÃ¤ge, i. 48), says that Gloucester
+  [387] Rymer, IV. iv. 27. Miss Putnam (_Mediæval Princess_, 89),
+         following Löher (Beiträge, i. 48), says that Gloucester
          sailed on the day that his passport was granted--a fortnight
          before Henry--and that this was arranged in order to remove
          him from the attractions of Jacqueline. There is no evidence
@@ -5005,13 +5005,13 @@ FOOTNOTES:
          likely that they were given them merely because the
          embarkation was beginning.
 
-  [388] June 10. Elmham, _Vita_, 308; _Gesta_, 153; St. RÃ©my, 445;
+  [388] June 10. Elmham, _Vita_, 308; _Gesta_, 153; St. Rémy, 445;
          Monstrelet, 503; Waurin, ii. 348; Chastellain, 79. The French
          chroniclers all give it as St. Barnabas Day, June 11.
 
   [389] Walsingham, _Hist. Angl._, ii. 340; cf. Add. MS., 4003, quoted
          in Ramsay, i. 295. The French chroniclers give 4000
-         men-at-arms and 24,000 archers; St. RÃ©my, 455; Chastellain,
+         men-at-arms and 24,000 archers; St. Rémy, 455; Chastellain,
          79.
 
   [390] Chastellain, 79.
@@ -5087,7 +5087,7 @@ FOOTNOTES:
   [416] Stubbs, iii. 94.
 
   [417] Rymer, IV. ii. 139. By this will Gloucester was left a bed and
-         Â£100.
+         £100.
 
   [418] _Testamenta Vetusta_, i. 21.
 
@@ -5277,7 +5277,7 @@ than this, he had gone out of his way to honour the lady, and it must
 have been with his consent that she was chosen to hold his infant son at
 the font, and to stand sponsor for him at his baptism in 1421.[468] This
 policy of favour to Jacqueline was not abandoned after his death, for
-her allowance of Â£100 a month--a really princely sum--was
+her allowance of £100 a month--a really princely sum--was
 continued.[469]
 
 1422-3] MARRIAGE TO JACQUELINE
@@ -5499,7 +5499,7 @@ no new ceremony had been performed.[495] It cannot be denied that, as a
 point of strict law, there is much to be said for this presentment of
 the case. The dispensation had originally been signed and sealed on
 December 22, 1417,[496] and the revocation had followed, under pressure
-from the Bishop of LiÃ©ge, better known as John of Bavaria, and the
+from the Bishop of Liége, better known as John of Bavaria, and the
 Emperor Sigismund, on the following 5th of January, whilst it was not
 till September 5, when the Pope had left Constance and Imperial
 influence behind him, that he signed the letters which re-enacted the
@@ -5630,12 +5630,12 @@ was called in Paris, mainly it would seem to pacify Burgundy, who was
 furious at this interference in what he considered his own happy
 hunting-ground, and after mature consideration terms of agreement were
 drawn up and sent to the contending parties, Ralph de Boutillier and the
-Abbot of FÃ©camp being commissioned to bear them to Humphrey.[512] Though
+Abbot of Fécamp being commissioned to bear them to Humphrey.[512] Though
 Brabant accepted the terms, neither the Duke nor the Duchess of
 Gloucester would have anything to do with them, and this last attempt at
 a settlement failed.[513] We have no record of what these terms were,
 but it seems likely that they were highly favourable to Burgundy's
-protÃ©gÃ©, for on hearing of their rejection Duke Philip flew into a
+protégé, for on hearing of their rejection Duke Philip flew into a
 mighty passion, and declared roundly to Bedford that he would resist the
 English claimant with all his forces, a course he could easily take as
 he had just signed a truce with the Dauphin. With a sad heart Bedford
@@ -5690,7 +5690,7 @@ with his military experience Gloucester did not undertake to lead his
 troops in person, but the explanation may be found in the report of his
 physician as to his state of health, which seems to have been anything
 but good at this time.[524] The route chosen for the march was through
-Artois, by way of ThÃ©rouaune and BÃ©thune, and passing to the north of
+Artois, by way of Thérouaune and Béthune, and passing to the north of
 Lens, the army reached Hainault territory, making its first halt therein
 at Bouchain.[525] All through the county of Artois, which was Burgundian
 territory, the utmost care was taken to keep the soldiers in strict
@@ -5702,7 +5702,7 @@ invasion of those territories which were claimed by the Duke of Brabant.
 In Hainault there was no rejoicing when the return of their long absent
 princess was announced. The traders and merchants of the towns had
 increased their prosperity during the Regency of John of Bavaria, the
-able and unscrupulous ex-Bishop of LiÃ©ge, to whom Brabant had yielded
+able and unscrupulous ex-Bishop of Liége, to whom Brabant had yielded
 the government of Jacqueline's dominions for a term of years. Whatever
 might be the private convictions of the citizen class, they cared for
 nothing so much as for peace, and this new invasion, though undertaken
@@ -5727,7 +5727,7 @@ urgent embassy to the Dowager-Countess, asking her to use her influence
 to induce her daughter not to enter their city, nor to bring 'Monsieur
 de Gloucester' with her;[529] indeed, if we are to believe an English
 chronicler, the various states of Jacqueline's heritage had united in
-offering Humphrey an annual tribute of Â£30,000 to be left in peace.[530]
+offering Humphrey an annual tribute of £30,000 to be left in peace.[530]
 
 1424] RECEPTION AT MONS
 
@@ -5913,7 +5913,7 @@ See, a report which reached as far as Zealand, where the citizens of
 Zierkzee wrote to the authorities at Mons, asking for a confirmation of
 the report if it were indeed true.[555] Before long these rumours
 reached Rome, and on February 13 Martin wrote to Brabant, declaring the
-Bulls of divorce now circulating in the dioceses of Utrecht, LiÃ©ge, and
+Bulls of divorce now circulating in the dioceses of Utrecht, Liége, and
 Cambray to be absolute forgeries.[556] At the same time he sent letters
 to Gloucester in which he asserted that the opinion that Jacqueline's
 English marriage was undoubtedly legal, currently attributed to him, had
@@ -6226,8 +6226,8 @@ shown himself blind to that which must have been clear to any one
 possessing the merest germs of statesmanship. All his weaknesses came to
 the front, and none of the virtues to which he could lay claim were
 apparent; it is by this episode in his life that he is best remembered,
-as the foolish knight-errant who adopted a mediÃ¦val pose, whilst
-possessing none of the mediÃ¦val chivalry which alone could make that
+as the foolish knight-errant who adopted a mediæval pose, whilst
+possessing none of the mediæval chivalry which alone could make that
 pose bearable.
 
 FOOTNOTES:
@@ -6239,29 +6239,29 @@ FOOTNOTES:
 
   [470] Polydore Vergil, 5.
 
-  [471] This story is told by Wagenaar, see BeitrÃ¤ge, 48, 49.
+  [471] This story is told by Wagenaar, see Beiträge, 48, 49.
 
   [472] _Chron. Henry VI._, 6. Allusion to advice given by Italian
          clerics justifying the marriage is made in Jacqueline's claim
          that Gloucester should be recognised as Regent of Hainault.
-         _ParticularitÃ©s Curieuses_, 77. Martin v. also in a letter to
+         _Particularités Curieuses_, 77. Martin v. also in a letter to
          his representatives in England alluded to the existence of an
          opinion, signed by many persons under seal, to the effect
          that in the question of divorce justice was on the side of
          Gloucester. _Papal Letters_, vii. 27.
 
   [473] A Latin chronicler in the Low Countries certainly says 'Quibus
-         nupciis regaliter in Anglia celebratis' (BeitrÃ¤ge, 16). But
+         nupciis regaliter in Anglia celebratis' (Beiträge, 16). But
          this cannot stand against the unanimous silence of all other
          contemporary writers.
 
   [474] _Cartulaire_, iv. 599.
 
-  [475] _Ibid._, iv. 318. Also _ParticularitÃ©s Curieuses_, 58.
+  [475] _Ibid._, iv. 318. Also _Particularités Curieuses_, 58.
 
   [476] _Cartulaire_, iv. 328.
 
-  [477] BeitrÃ¤ge, 51.
+  [477] Beiträge, 51.
 
   [478] Hall, 116. Stow also, wise after the event, alludes to the
          marriage as 'a thing thought unreasonable'; _Annales_ 366.
@@ -6269,11 +6269,11 @@ FOOTNOTES:
   [479] Rymer, IV. iv. 90.
 
   [480] Dec. 20, 1423. _Rot. Parl._, iv. 242; _Lords' Reports_, v.
-         197, 198; Rymer, IV. iv. 103. LÃ¶her says that before the
+         197, 198; Rymer, IV. iv. 103. Löher says that before the
          marriage of Bedford and Anne of Burgundy Humphrey had been a
-         candidate for this lady's hand (LÃ¶her, _JakobÃ¤a von Bayern_,
+         candidate for this lady's hand (Löher, _Jakobäa von Bayern_,
          ii. 141). He is followed in this statement by Miss Putnam (_A
-         MediÃ¦val Princess_, 87), but I can find no authority for it.
+         Mediæval Princess_, 87), but I can find no authority for it.
          Probably it is a mistake arising from the fact of Bedford's
          early candidature for the hand of Jacqueline.
 
@@ -6332,7 +6332,7 @@ FOOTNOTES:
   [502] There is no evidence that he asked for it, but he certainly
          was not given it, else some record of it would survive.
 
-  [503] The Prior of Ely refused to lend Â£200; MSS. of Dean and
+  [503] The Prior of Ely refused to lend £200; MSS. of Dean and
          Chapter of Ely. _Hist. MSS. Rep._, xii. App. IX. 395.
 
   [504] _Hist. MSS. Rep._, v. 546; MSS. of Corporation of New Romney.
@@ -6342,7 +6342,7 @@ FOOTNOTES:
          1425, and suggests that Jacqueline was over in England at
          that time. There is no ground for this suggestion.
 
-  [506] _Cartulaire_, iv. 408 find 410; _ParticularitÃ©s Curieuses_,
+  [506] _Cartulaire_, iv. 408 find 410; _Particularités Curieuses_,
          71.
 
   [507] _Ordinances_, iii. 165; Devon, _Issue Roll_, 395.
@@ -6350,7 +6350,7 @@ FOOTNOTES:
   [508] Stevenson, _Letters and Papers_, ii. 397; _Beckington
          Correspondence_, i. 281.
 
-  [509] _Cartulaire_, iv. 413; _ParticularitÃ©s Curieuses_, 73.
+  [509] _Cartulaire_, iv. 413; _Particularités Curieuses_, 73.
 
   [510] Stevenson, _Letters and Papers_, ii. 398. Letter of one of
          Gloucester's followers to Beaufort. There were other copies
@@ -6365,7 +6365,7 @@ FOOTNOTES:
          Gloucester till November 18; _Ibid._, ii. 400.
 
   [513] Dynter, iii. 854, 855; _Preuves de l'histoire de Bourgogne_,
-         iv. No. XLVI. p. 53; St. RÃ©my, 471.
+         iv. No. XLVI. p. 53; St. Rémy, 471.
 
   [514] Monstrelet, 563; Waurin, iii. 129-131.
 
@@ -6378,7 +6378,7 @@ FOOTNOTES:
   [518] Desplanque, _Projet d'Assassinat, Preuves_, pp. 57, 59.
 
   [519] For a discussion upon these documents, see the above treatise
-         in _MÃ©moires couronnÃ©s par l'AcadÃ©mie royale de Belgique_,
+         in _Mémoires couronnés par l'Académie royale de Belgique_,
          vol. xxxii.; and also Cosneau, _Richemont_, 501, 502; De
          Beaucourt, ii. 658-660.
 
@@ -6390,7 +6390,7 @@ FOOTNOTES:
          Gloucester's coming. This corresponds with Eberhard Windeck's
          report of 4000 men (Windeck, cap. 215, p. 162). Waurin, iii.
          125, says 5000. Holkham MS., p. 8, follows Stow in saying
-         1200. Pierre de FÃ©nin, p. 601, also says 1200. An entry in
+         1200. Pierre de Fénin, p. 601, also says 1200. An entry in
          the _Registre de Mons_ of November 27, 1424, says Gloucester
          arrived near Mons with between 4000 and 5000 men
          (_Cartulaire_, iv. 420), but he had then been joined by some
@@ -6403,14 +6403,14 @@ FOOTNOTES:
 
   [525] _Cartulaire_, iv. 418; Waurin, iii. 135; Monstrelet, 564.
 
-  [526] Waurin, iii. 135; Monstrelet, 564; Pierre de FÃ©nin, 601.
+  [526] Waurin, iii. 135; Monstrelet, 564; Pierre de Fénin, 601.
 
   [527] In October 1424 the Duke of Brabant had written to Mons to
          announce his intention of resisting Gloucester; _Cartulaire_,
          iv. 414. Resistance to Jacqueline and her husband was
          therefore a certainty.
 
-  [528] St. RÃ©my, 472.
+  [528] St. Rémy, 472.
 
   [529] _Cartulaire_, iv. 419.
 
@@ -6429,15 +6429,15 @@ FOOTNOTES:
   [536] _Registre de Mons, Cartulaire_, iv. 420.
 
   [537] It is possible that this 'Jan Lorfevre' is none other than the
-         chronicler Jean Le Fevre Seigneur de St. RÃ©my, who was with
+         chronicler Jean Le Fevre Seigneur de St. Rémy, who was with
          the English army on the day of Agincourt, but of whom we know
          nothing more till he reappears in 1430 as an ambassador from
          Burgundy.
 
-  [538] _ParticularitÃ©s Curieuses_, 76, 77; _Cartulaire_, iv. 423; St.
-         RÃ©my, 472.
+  [538] _Particularités Curieuses_, 76, 77; _Cartulaire_, iv. 423; St.
+         Rémy, 472.
 
-  [539] _Cartulaire_, iv. 424; _ParticularitÃ©s Curieuses_, 78.
+  [539] _Cartulaire_, iv. 424; _Particularités Curieuses_, 78.
 
   [540] Dynter, iii. 858.
 
@@ -6464,9 +6464,9 @@ FOOTNOTES:
   [548] _Cartulaire_, iv. 428.
 
   [549] _Ibid._, iv. 434. For another protest on the same subject from
-         the citizens of Mons, see _ParticularitÃ©s Curieuses_, 86.
+         the citizens of Mons, see _Particularités Curieuses_, 86.
 
-  [550] _ParticularitÃ©s Curieuses_, 92.
+  [550] _Particularités Curieuses_, 92.
 
   [551] _Cartulaire_, iv. 431.
 
@@ -6474,7 +6474,7 @@ FOOTNOTES:
 
   [553] _Ibid._, iv. 436, December 25, 1424.
 
-  [554] February 4, 1425, _ParticularitÃ©s Curieuses_, 86.
+  [554] February 4, 1425, _Particularités Curieuses_, 86.
 
   [555] _Cartulaire_, iv. 448. The letter reached Mons on February 24,
          1425.
@@ -6491,34 +6491,34 @@ FOOTNOTES:
   [559] Letter to the Bishop of Winchester, dated January 8, 1425, in
          Stevenson, _Letters and Papers_, ii. 416; Dynter, iii. 859.
 
-  [560] Pierre de FÃ©nin, 601; Dynter, iii. 859.
+  [560] Pierre de Fénin, 601; Dynter, iii. 859.
 
   [561] Letter as above, Stevenson, _Letters and Papers_, ii. 410.
 
   [562] _Ibid._, ii. 411.
 
-  [563] Monstrelet, 563, 564; St. RÃ©my, 471.
+  [563] Monstrelet, 563, 564; St. Rémy, 471.
 
   [564] Stowe MS., 668, f. 32vo; Waurin, iii. 136; Monstrelet, 564.
 
-  [565] So Waurin, iii. 164; Monstrelet, 569. Pierre de FÃ©nin, 602,
+  [565] So Waurin, iii. 164; Monstrelet, 569. Pierre de Fénin, 602,
          gives 50,000 men, and Dynter, iii. 861, estimates the army at
          60,000.
 
-  [566] Pierre de FÃ©nin, 601.
+  [566] Pierre de Fénin, 601.
 
   [567] Waurin, iii. 137, 138; Monstrelet, 564; _Chronique des Pays
          Bas_, 388; Dynter, iii. 859-861.
 
-  [568] Pierre de FÃ©nin, 602; Waurin, iii. 167.
+  [568] Pierre de Fénin, 602; Waurin, iii. 167.
 
-  [569] So Monstrelet, 569; Waurin, iii. 165. Pierre de FÃ©nin, 602,
+  [569] So Monstrelet, 569; Waurin, iii. 165. Pierre de Fénin, 602,
          says the siege lasted twelve days.
 
   [570] Dynter, iii. 861-863; Monstrelet, 569; Waurin, iii. 165-167;
-         Pierre de FÃ©nin, 602.
+         Pierre de Fénin, 602.
 
-  [571] _Cartulaire_, iv. 451; St. RÃ©my, 472.
+  [571] _Cartulaire_, iv. 451; St. Rémy, 472.
 
   [572] Stevenson, _Letters and Papers_, ii. 401-404. The letter is
          undated, but owing to its allusions to the recent invasion of
@@ -6528,7 +6528,7 @@ FOOTNOTES:
 
   [574] Monstrelet, 570; Waurin, iii. 170-174; Dynter, iii. 864. The
          English forces despatched to follow St. Pol are estimated at
-         6000 by St. RÃ©my, 472, 473, while the _Chronicon Zanfleet_ in
+         6000 by St. Rémy, 472, 473, while the _Chronicon Zanfleet_ in
          'Amplissima Collectio,' v. 416, suggests that the only reason
          why St. Pol did not attack those who followed him was because
          some of the Brabant nobles in his army were in Gloucester's
@@ -6537,45 +6537,45 @@ FOOTNOTES:
   [575] Monstrelet, 570; Waurin, iii. 169, 170.
 
   [576] Stowe MS., 668, ff. 33, 34; Monstrelet, 565; Waurin, iii.
-         139-145; St. RÃ©my, 474.
+         139-145; St. Rémy, 474.
 
   [577] Stowe MS., 668, ff. 34, 35vo; Monstrelet, 566, 567; Waurin,
-         iii. 145-152; St. RÃ©my, 474.
+         iii. 145-152; St. Rémy, 474.
 
   [578] Stowe MS., 668, ff. 35, 36vo; Monstrelet, 567, 568; Waurin,
-         iii. 153-157; St. RÃ©my, 475, 476. The various authorities
+         iii. 153-157; St. Rémy, 475, 476. The various authorities
          differ as to the dates of the letters. For the first letter
          the Stowe MS., Waurin, and Monstrelet have January 12, whilst
-         St. RÃ©my has it as January 22. For the second letter the
+         St. Rémy has it as January 22. For the second letter the
          dates are Waurin and Stowe MS., March 13; Monstrelet, March
-         3; St. RÃ©my, March 12. For the third letter, Monstrelet and
-         St. RÃ©my give March 16; Stowe MS. and Waurin, March 26. I am
+         3; St. Rémy, March 12. For the third letter, Monstrelet and
+         St. Rémy give March 16; Stowe MS. and Waurin, March 26. I am
          inclined to follow the Stowe MS. all through.
 
   [579] Waurin, iii. 159-163; Monstrelet, 568, 569.
 
-  [580] Pierre de FÃ©nin, 603.
+  [580] Pierre de Fénin, 603.
 
   [581] Waurin, iii. 161-169.
 
   [582] Stevenson, _Letters and Papers_, ii. 390, 391.
 
-  [583] Waurin, iii. 175; Pierre de FÃ©nin, 603.
+  [583] Waurin, iii. 175; Pierre de Fénin, 603.
 
-  [584] _ParticularitÃ©s Curieuses_, 97, 98. This demand was made on
+  [584] _Particularités Curieuses_, 97, 98. This demand was made on
          March 21.
 
-  [585] _ParticularitÃ©s Curieuses_, 99. The letter reached Mons on
+  [585] _Particularités Curieuses_, 99. The letter reached Mons on
          March 29.
 
   [586] Dynter, iii. 864.
 
   [587] _Ibid._, iii. 865.
 
-  [588] On a MS. copy of Froissart's _Chronicles_--MS. franÃ§ais, 831,
+  [588] On a MS. copy of Froissart's _Chronicles_--MS. français, 831,
          of the National Library at Paris--these words are written at
          the end of the text: 'Plus leid n'y a Jaque de Baviere; la
-         meins amÃ©e est Jaque; plus belle n'y a que my Warigny, nulle
+         meins amée est Jaque; plus belle n'y a que my Warigny, nulle
          si belle que Warigny.' The interpretation is not plain, but
          the inference is that Jeanne de Warigny was the object of
          Gloucester's affections while he was in Hainault. This lady
@@ -6585,22 +6585,22 @@ FOOTNOTES:
          MS. in which this is found once belonged to Richard, Earl of
          Warwick, but the writing is not in his hand. For a discussion
          of this matter see Kervyn de Lettenhove, Froissart, ii.
-         260-263, also BeitrÃ¤ge, 274, 275, and Putnam, _A MediÃ¦val
+         260-263, also Beiträge, 274, 275, and Putnam, _A Mediæval
          Princess_, pp. 305-309.
 
-  [589] _ParticularitÃ©s Curieuses_, 90.
+  [589] _Particularités Curieuses_, 90.
 
-  [590] Pierre de FÃ©nin, 603; St. RÃ©my, 476.
+  [590] Pierre de Fénin, 603; St. Rémy, 476.
 
   [591] Waurin, iii. 175; Monstrelet, 571; Cotton MS., Cleopatra, C.
          iv. f. 33.
 
-  [592] St. RÃ©my, 476; _Cartulaire_, iv. 549.
+  [592] St. Rémy, 476; _Cartulaire_, iv. 549.
 
   [593] Waurin, iii. 176; Monstrelet, 571.
 
   [594] This date is established by a letter written by Gloucester to
-         Jacqueline on his way home; _ParticularitÃ©s Curieuses_, 112.
+         Jacqueline on his way home; _Particularités Curieuses_, 112.
 
   [595] _Chronique des Pays Bas_, 388.
 
@@ -6651,7 +6651,7 @@ chroniclers, such criticism he did receive at the hands of the
 Council,[598] but no traces of this are to be found in the official
 records. Nay more, there is ample evidence that the Protector's
 influence both in Parliament and Council was considerable. Not only in
-the face of a revenue deficit of Â£20,000 did Parliament grant him a loan
+the face of a revenue deficit of £20,000 did Parliament grant him a loan
 of 40,000 marks to be paid within four years, but the Lords of the
 Council agreed to act as sureties for its repayment;[599] in a dispute
 between the Earl Marshal and the Earl of Warwick for precedence
@@ -6688,7 +6688,7 @@ seems to have felt considerable sympathy for his brother,[602] and
 perhaps he remembered that the late King might be held largely
 responsible for the turn of events. Englishmen generally seem to have
 looked with kindly eyes on this mad expedition, for there was about it
-some of the glamour of mediÃ¦val romance in appearance if not in reality,
+some of the glamour of mediæval romance in appearance if not in reality,
 whilst Jacqueline herself had won golden opinions in England, where her
 unhappy lot had obtained universal sympathy.[603] For Gloucester,
 however, the romance of his marriage with Jacqueline, such as it had
@@ -7074,7 +7074,7 @@ his opponents than as a genuine offer of arbitration, and refused to go
 to Northampton, preferring to wait till the Parliament should be
 summoned at Leicester. One thing should not pass unnoticed in this offer
 of the Council. Though the Bishop had summoned Bedford from France,
-Gloucester had now assumed the rÃ´le of accuser. It was as such that he
+Gloucester had now assumed the rôle of accuser. It was as such that he
 was to appear at Leicester, having herein outmanoeuvred his opponent,
 who, thinking to act on the aggressive, had been compelled to fall back
 on a defensive attitude.
@@ -7279,7 +7279,7 @@ letter to Bedford, however, have considerable interest. He stated that
 in it was to be found proof of his desire for a good government of the
 kingdom, and of his anxiety to escape provoking a civil war, arguments
 which came ill from one who had tried force and had failed; but his
-chief point was that Gloucester had encouraged rather than, restrained
+chief point was that Gloucester had encouraged rather than restrained
 the seditious action of some of the London artisans, who had resisted
 some wage regulations made by the mayor and aldermen with the consent of
 the Council.[661]
@@ -7618,7 +7618,7 @@ the Pope would favour, and the chroniclers agree in taking this date as
 the final decision of the matter.[687] Nevertheless pressure was still
 brought to bear on the Pope, and in October of the same year the English
 Council agreed to desist from prosecuting the Bishop of Lincoln under
-the act of PrÃ¦munire, on condition that he should do his utmost to
+the act of Præmunire, on condition that he should do his utmost to
 expedite the cause of the Duke of Gloucester at Rome.[688]
 
 1427] JACQUELINE SEEKS ASSISTANCE
@@ -7634,7 +7634,7 @@ desperate resistance against her enemies, she sent Lewis de Montfort and
 Arnold of Ghent to the Council in England with a letter which was
 written on April 8, 1427. She recalled therein the friendship of Henry
 V., and assured them that he would never have left her to her fate; she
-begged for help, _comme pour femme desolÃ©e_, and begged them to lay her
+begged for help, _comme pour femme desolée_, and begged them to lay her
 sad plight before her husband, and induce him to come to her help, or at
 least to send her some assistance.[689] She had evidently given up hope
 of any spontaneous support from Humphrey. She no longer wrote to him
@@ -7838,7 +7838,7 @@ slave to what was perhaps the one real passion of his life.
 We have seen how Gloucester was accompanied home from Hainault by one of
 Jacqueline's English ladies-in-waiting, and how he had fallen a victim
 to her charms. Eleanor Cobham was of great beauty, so the gossiping
-Ã†neas Sylvius tells us, whilst Waurin bears testimony to her wonderful
+Æneas Sylvius tells us, whilst Waurin bears testimony to her wonderful
 charm and courage,[715] but her honour had been besmirched before
 Gloucester made her acquaintance.[716] Notwithstanding this, she had
 gained a complete ascendency over her royal lover, to whom she had
@@ -8140,7 +8140,7 @@ FOOTNOTES:
 
   [597] _Rot. Parl._, iv. 462.
 
-  [598] See Monstrelet, 575; St. RÃ©my, 476; Waurin, iii. 188. This
+  [598] See Monstrelet, 575; St. Rémy, 476; Waurin, iii. 188. This
          last says that a demand for men and money made by Gloucester
          was refused.
 
@@ -8163,7 +8163,7 @@ FOOTNOTES:
          himself never was. See Nicolas, _Historic Peerage_, and G. E.
          C., _Peerage_, under his name. He is possibly the Reginald
          Cobham who commanded part of Gloucester's retinue in 1417,
-         and served under him in the CÃ´tentin.
+         and served under him in the Côtentin.
 
   [605] Monstrelet, 571; _Chron. Henry VI._, 7.
 
@@ -8177,11 +8177,11 @@ FOOTNOTES:
   [608] Monstrelet, 573: Waurin, iii. 182, 183. In a letter written to
          Jacqueline from Calais, on his homeward journey, he had
          promised her to return to Hainault speedily. See
-         _ParticularitÃ©s Curieuses_, 112.
+         _Particularités Curieuses_, 112.
 
   [609] Waurin, iii. 183.
 
-  [610] Monstrelet, 574; St. RÃ©my, 477.
+  [610] Monstrelet, 574; St. Rémy, 477.
 
   [611] _Rot. Parl._, iv. 277.
 
@@ -8189,7 +8189,7 @@ FOOTNOTES:
 
   [613] Monstrelet, 576, describes Burgundy's measures, 'tout en
          abstinence de sa bouche, comme en prenant peine pour lui
-         mettre en haleine.' See also Waurin, iii. 190; St. RÃ©my, 477.
+         mettre en haleine.' See also Waurin, iii. 190; St. Rémy, 477.
 
   [614] Monstrelet, 577.
 
@@ -8205,22 +8205,22 @@ FOOTNOTES:
          296. Stevenson, _Letters and Papers_, ii. 412-414, gives the
          date as April 24.
 
-  [617] PlanchÃ©, _Preuves_, IV. pp. lii, liii, Document No. XLVI.
+  [617] Planché, _Preuves_, IV. pp. lii, liii, Document No. XLVI.
          Stevenson, _Letters and Papers_, ii. 412-414, gives the date
          of this decision as September 24.
 
-  [618] Monstrelet, 577; St. RÃ©my, 477. Waurin, iii. 196, says that
+  [618] Monstrelet, 577; St. Rémy, 477. Waurin, iii. 196, says that
          both dukes were angered at this decision.
 
   [619] Stevenson, _Letters and Papers_, ii. 407-409.
 
-  [620] Monstrelet, 577; St. RÃ©my, 480.
+  [620] Monstrelet, 577; St. Rémy, 480.
 
   [621] Dynter, iii. 465.
 
   [622] Rastell, 258; Waurin, iii. 200-204; Fabyan, 595. Monstrelet,
-         578, gives the number of men as 500; Pierre de FÃ©nin, 604,
-         gives 1000; and St. RÃ©my, 480, estimates the expedition at
+         578, gives the number of men as 500; Pierre de Fénin, 604,
+         gives 1000; and St. Rémy, 480, estimates the expedition at
          1500 men.
 
   [623] _Ordinances_, iii. 167. The appointment is dated February 26,
@@ -8380,7 +8380,7 @@ FOOTNOTES:
 
   [683] _Ibid._, i. 12-17.
 
-  [684] _BibliothÃ¨que Nationale MS. franÃ§ais_, 2, f. 511. See Appendix
+  [684] _Bibliothèque Nationale MS. français_, 2, f. 511. See Appendix
          A.
 
   [685] _Paston Letters_, i. 24-26.
@@ -8415,7 +8415,7 @@ FOOTNOTES:
 
   [698] Waurin, iii. 113, 114.
 
-  [699] Pierre de FÃ©nin, 604; Waurin, iii. 212, 213; Monstrelet, 580.
+  [699] Pierre de Fénin, 604; Waurin, iii. 212, 213; Monstrelet, 580.
 
   [700] _Cartulaire_, iv. 622-624, July 11.
 
@@ -8435,7 +8435,7 @@ FOOTNOTES:
 
   [705] _Ibid._, iv. 638, 639.
 
-  [706] Monstrelet, 580; St. RÃ©my, 485; Pierre de FÃ©nin, 604, 605.
+  [706] Monstrelet, 580; St. Rémy, 485; Pierre de Fénin, 604, 605.
 
   [707] _Cartulaire_, iv. 648.
 
@@ -8455,7 +8455,7 @@ FOOTNOTES:
 
   [714] Rymer, IV. iv. 147.
 
-  [715] Ã†neas Sylvius, _De Viris Illustribus_, p. 52; Waurin, iii.
+  [715] Æneas Sylvius, _De Viris Illustribus_, p. 52; Waurin, iii.
          177.
 
   [716] Monstrelet, 585.
@@ -8825,7 +8825,7 @@ of Carlisle,[781] a man well known to be a minion of the Beaufort party,
 and one to whose appointment to his present see both Gloucester and Lord
 Scrope had objected strongly only a few years before.[782] The decision
 of the judges seems to have been hostile to the Cardinal, for on
-November 20 the Council ordered writs of PrÃ¦munire and attachment upon
+November 20 the Council ordered writs of Præmunire and attachment upon
 the Statute to be sealed against him, though they were not to be
 executed till the King came back.[783]
 
@@ -8835,7 +8835,7 @@ emphasised by a movement to increase his salary as Regent. According to
 the existing arrangement he received two thousand marks per annum as
 First Councillor, and four thousand marks whilst he was Regent in the
 King's absence. It was the Treasurer, Lord Hungerford, who now proposed
-in the Great Council, on the same day as the writ of PrÃ¦munire was
+in the Great Council, on the same day as the writ of Præmunire was
 issued, that in consideration of the great expenses that Gloucester had
 incurred in the past, both in preserving the kingdom from the malice of
 rebels and traitors, and 'especially of late concerning the taking and
@@ -9027,7 +9027,7 @@ representing the Councillors there present, declared the King's entire
 belief in Beaufort's loyalty, and emphatically announced that no one had
 accused him of anything, nor to the best of their knowledge did any one
 desire to do so.[797] Whether there was any truth in the Cardinal's
-statement, or whether he was referring to the writ of PrÃ¦munire issued
+statement, or whether he was referring to the writ of Præmunire issued
 against him, must remain uncertain. At all events his attempt to make a
 scene failed, and with it his first attack on Gloucester's new position.
 
@@ -9037,7 +9037,7 @@ him for a loan had been seized by the royal officials when he landed at
 Sandwich, and he now demanded their restoration.[798] On what plea these
 jewels were confiscated we cannot discover, but that the Regent had some
 just cause for his action may be argued from the fact that Parliament
-only agreed to this restoration on condition that Â£6000 more were
+only agreed to this restoration on condition that £6000 more were
 deposited for them, and a promise made by the Cardinal to lend the King
 thirteen thousand marks in addition.[799] Beaufort had undoubtedly not
 suffered any loss from the sums he had lent to the King in the past, and
@@ -9053,7 +9053,7 @@ Cardinal managed to creep out of the engagements he had made.[801]
 Taking all this into consideration, it is hard to deduce from these
 proceedings in Parliament that Beaufort gained a victory over his
 rival,[802] though he did secure an exemption from all liabilities
-incurred by him under the Acts of Provisors and PrÃ¦munire.[803]
+incurred by him under the Acts of Provisors and Præmunire.[803]
 
 Yet another attack on Gloucester was made in this Parliament by his
 opponents, when on June 10 Lord Cromwell complained before the Lords
@@ -9068,7 +9068,7 @@ Gloucester had been successful all along the line. The various, scarcely
 veiled, attacks made upon him in this Parliament had been repulsed, and
 his power had been in no way lessened by the return of the King. His
 position was recognised, and in October of the same year we even find
-him described as 'Custode AngliÃ¦' in an official document,[806] a title
+him described as 'Custode Angliæ' in an official document,[806] a title
 of considerably greater importance than that of 'First Councillor.'
 
        *       *       *       *       *
@@ -9233,10 +9233,10 @@ that he was the King's servant in all things, and entirely at his
 disposal.[826]
 
 On the following day Bedford, in view of the low state of the finances
-of the kingdom, agreed to accept an income of Â£l000 a year as Chief
-Councillor, with a provision of Â£500 for every journey to and from
-France,[827] and Gloucester hastened to follow suit, accepting Â£1000 in
-lieu of the five thousand marks (Â£3333, 6s. 8d.) which he was then
+of the kingdom, agreed to accept an income of £l000 a year as Chief
+Councillor, with a provision of £500 for every journey to and from
+France,[827] and Gloucester hastened to follow suit, accepting £1000 in
+lieu of the five thousand marks (£3333, 6s. 8d.) which he was then
 receiving.[828] The lead thus given was followed by others who
 voluntarily resigned their incomes, for the detailed report that Lord
 Cromwell had presented to Parliament had shown a heavy deficit.[829]
@@ -9388,7 +9388,7 @@ the first. Of all the men to whom Henry of Monmouth had confided the
 care of his son and of his kingdom, Bedford alone was worthy of his
 implicit trust. He had fought an uphill and impossible fight in France,
 and on two occasions he had turned his attention to the internal affairs
-of England. He had played a difficult rÃ´le with as much success as was
+of England. He had played a difficult rôle with as much success as was
 to be expected, and we can only guess at what might have been the
 destiny of England had it secured his undivided attention. Had he been
 settled in England as Protector, his power would doubtless have been
@@ -9576,7 +9576,7 @@ Bailleul, he lodged outside the walls, at the Abbey of St. Anthony,
 which was spared, though the town where his men lay and the surrounding
 country were utterly devastated. Retracing his steps from this point, he
 picked up the detachment under Huntingdon at Poperinghes, where much
-booty had been secured, and passing by Neu-ChÃ¢tel, he burnt Rimesture
+booty had been secured, and passing by Neu-Châtel, he burnt Rimesture
 and Valon-Chapelle, then entering Artois he met with some slight
 resistance. Skirmishes were fought round Arques and Blandesques, till
 the army reached St. Omer, burning and harrying all that came in its
@@ -9839,7 +9839,7 @@ FOOTNOTES:
   [832] _Rot. Parl._, iv. 424.
 
   [833] _Register of Abbot Curteys_, part of which is printed in
-         _ArchÃ¦ologia_ for the year 1806, vol. xv. pp. 66-71.
+         _Archæologia_ for the year 1806, vol. xv. pp. 66-71.
 
   [834] Probably April 24, the last Saturday in the month.
 
@@ -10276,7 +10276,7 @@ hitherto the Duke had had but little part in the rejection of the French
 terms, though he acknowledged that he had refused his consent to the
 suggestion that Henry should surrender his title of King of France. The
 complaint as to the waste of money at the Congress of Arras was amply
-justified, for the fabulous sum of Â£22,000 was spent on the
+justified, for the fabulous sum of £22,000 was spent on the
 Conference.[916] Still it must be confessed that the document as a whole
 is violent beyond the limits of judiciousness, and it seems to be the
 appeal of an angry man to a larger audience than that to which it was
@@ -10560,7 +10560,7 @@ of Gloucester.'[948]
 
 The disgrace of Gloucester's wife is a strange story, and in spite of
 the ample evidence to be found in contemporary chroniclers, it must be
-accepted with some reserve. It was the _cause cÃ©lÃ¨bre_, of the period,
+accepted with some reserve. It was the _cause célèbre_, of the period,
 and even chroniclers who pass over the years with the scantiest summary
 of events pause awhile to tell of the fall of a great lady. Yet not once
 is Humphrey mentioned, and it is only a sixteenth-century historian who
@@ -10786,8 +10786,8 @@ it was considered advisable that he should look to France for a bride.
 The question remained, to whom should overtures be made? The embassy to
 France was to pave the way for the carrying out of a scheme proposed by
 the Duke of Orleans, that Henry should marry Margaret of Anjou,
-daughter of RenÃ©, Duke of Lorraine and titular King of Sicily and
-Jerusalem. Though a man of no personal possessions, RenÃ© was in the
+daughter of René, Duke of Lorraine and titular King of Sicily and
+Jerusalem. Though a man of no personal possessions, René was in the
 innermost circle of the French Court, owing to the fact that his sister
 was Queen of France, and his brother, Charles of Anjou, one of the
 King's chief advisers. Such a marriage, therefore, presupposed some kind
@@ -10901,7 +10901,7 @@ home, and a French chronicler of the time was the first to realise this
 aspect of the Duke's policy.[990] It was not a new idea. It had been
 Henry V.'s, as we have seen; more important still, it was mentioned as a
 maxim of government in one of those books which it was Gloucester's joy
-to study. Ã†gidius, in his _De Regimine Principium_, writes: 'Guerra enim
+to study. Ægidius, in his _De Regimine Principium_, writes: 'Guerra enim
 exterior tollit seditiones, et reddit cives magis unanimes et concordes.
 Exemplum hujus habemus in Romanis quibus postquam defecerunt exteriora
 bella intra se ipsos bellare coeperunt,'[991] and a copy of this book
@@ -11094,7 +11094,7 @@ his arrival in the town, Humphrey's body was carried to the Grey
 Friars' Monastery at Babwell,[1019] escorted thither by twenty torches
 borne by members of his own entourage; indeed, apart from the three
 crown officials who had been his gaolers, none but his personal
-retainers accompanied the cortÃ¨ge. On the Sunday the Abbot of St. Albans
+retainers accompanied the cortège. On the Sunday the Abbot of St. Albans
 'dede his dirge,' and the next day, after a mass had been said for the
 repose of his soul, his earthly remains were carried out on their last
 journey. By slow stages the coffin was carried to St. Albans, resting by
@@ -11406,7 +11406,7 @@ FOOTNOTES:
 
   [990] Basin, i. 189.
 
-  [991] Ã†gidius, _De Regimine Principium_, III. ii. 15.
+  [991] Ægidius, _De Regimine Principium_, III. ii. 15.
 
   [992] Basin, i. 150, says that the subsequent events justified
          Gloucester's wish to continue the war.
@@ -12050,7 +12050,7 @@ are, but few and of doubtful importance. In Parliament, together with
 other lords, he was complained of as illegally exacting the royal right
 of purveyance,[1078] but his position as heir to the throne may form
 some excuse for his action, and the complaint was made at a time when
-his enemies were closing their toils around him. More detailed and
+his enemies were closing their coils around him. More detailed and
 circumstantial is an account of how one John Withorne had his lands
 seized by Gloucester, who claimed him as _nativus suus_, and was taken
 off to spend the remaining seven years of his pretended master's life in
@@ -12178,7 +12178,7 @@ Burgundian suggestion. Again, in 1415, he favoured an Armagnac alliance,
 and we find him voicing the same principle when it was a question of a
 marriage for Henry VI. with a daughter of the Armagnac or Angevin House.
 In the matter of the war, too, he was consistent to the extent of folly.
-His active life had begun in the Trench wars; he had accompanied his
+His active life had begun in the French wars; he had accompanied his
 brother Henry V. on his expeditions to France. Henceforth he accepted
 the war as part of his political creed, and would not move one
 hair's-breadth therefrom. At a time when no useful advantage could be
@@ -12265,7 +12265,7 @@ opinion, and states that from his youth up he 'favoured those that hold
 the opinion of Wickliff';[1092] indeed at the end of the treatise it is
 evident, that its main object is to prove that its hero was the morning
 star of the Reformation. This contention is obviously absurd. 'Amator
-virtuties et rei publicÃ¦, sed principue clericorum promotor
+virtuties et rei publicæ, sed principue clericorum promotor
 singularis'[1093] is the character given to Humphrey by a contemporary,
 who therein gave utterance to the opinion of his day. It could hardly be
 otherwise. As a boy the future Duke of Gloucester had been surrounded by
@@ -12273,7 +12273,7 @@ those whose orthodoxy was part of their political programme. Henry IV.
 had snatched his crown from the head of Richard, who was strongly
 suspected of Lollardy, and he resolutely refused to comply with the
 movement in favour of remitting the statutes passed against the
-Lollards.[1094] His successor had adopted the rÃ´le of God's messenger to
+Lollards.[1094] His successor had adopted the rôle of God's messenger to
 the wicked Frenchmen, and had kept up his part all through his campaign,
 so much so that in 1418 he had retired to Bayeux to keep Lent, whilst
 his brothers fought his battles for him. In earlier years, too, as
@@ -12325,7 +12325,7 @@ delay in giving a decision convicts Martin V. of neglecting the rights
 and wrongs of the case, for had it been a mere matter of law, no such
 delay was necessary.
 
-THE POPE AND PRÃ†MUNIRE
+THE POPE AND PRÆMUNIRE
 
 The secret history of these negotiations at Rome is unknown, and will
 probably never be revealed, but subsequent events point strongly to the
@@ -12345,7 +12345,7 @@ lost touch with the Court of Rome, and it cannot be doubted that his
 handiwork may be seen in a letter which in 1427 the Pope wrote to
 Archbishop Chichele. Martin V. had exalted ideas as to the importance of
 the papal power, and on this occasion he wrote in severe terms with
-regard to the existence of the statute of PrÃ¦munire, which limited his
+regard to the existence of the statute of Præmunire, which limited his
 powers in England. Chichele was not blind to the meaning of this attack,
 which blamed him for placing patriotism to his country before loyalty to
 his Church.[1102] In his reply he did not beat about the bush, but
@@ -12377,7 +12377,7 @@ liberty,' and urged Gloucester, as next in importance to the King, to
 use his influence on the side of repeal.[1105] Thus was Humphrey drawn
 into the quarrel, and though it would seem that he tried to pacify the
 Pope by releasing the papal collector,[1106] there are no signs that he
-abandoned his old friend Chichele on the question of PrÃ¦munire. The tone
+abandoned his old friend Chichele on the question of Præmunire. The tone
 of the papal letter addressed to the Protector, though couched in civil
 language, contains a decided threat, especially when we remember that
 the case of Jacqueline's divorce was still pending at Rome. It is
@@ -12389,14 +12389,14 @@ gratify his political ambitions in England.
 The excuse and foundation for this attack on Archbishop Chichele are not
 far to seek. The Bishop of Lincoln had been recently translated to the
 See of York by papal provision, and had been indicted for accepting this
-promotion under the statute of PrÃ¦munire. However, he had come to terms
+promotion under the statute of Præmunire. However, he had come to terms
 with the Lords of the Council, and in return for a promise to stay all
 proceedings against him and to reappoint him to the See of Lincoln, he
 had agreed to renounce all claims to the See of York, and to do his
 utmost to expedite the cause of the Duke of Gloucester at the Court of
 Rome, the cause being the divorce of Jacqueline, as yet undecided.[1107]
 This action on the part of the Council had enraged the Pope and annoyed
-Beaufort, the former because the statute of PrÃ¦munire had been employed
+Beaufort, the former because the statute of Præmunire had been employed
 to curb his power in England, the latter because it spoke of the
 influence which his rival had over the Council. Moreover, the Bishop had
 no desire to see the objectionable statute made use of against himself,
@@ -12421,7 +12421,7 @@ who had made some show of friendship for Gloucester,[1110] but who was
 to join the party of his opponents before very long; besides this, the
 Bishop of Winchester was ultimately enabled, by means of the influence
 exercised on Bedford, to accept the cardinalate without incurring the
-penalties of PrÃ¦munire.
+penalties of Præmunire.
 
 RELATIONS WITH PAPACY
 
@@ -12534,7 +12534,7 @@ ST. ALBANS MONASTERY
 
 As we have seen, it was in St. Albans Abbey that Gloucester found his
 last resting-place, in a tomb built for him before his death by Abbot
-Stoke at the considerable cost of Â£433, 6s. 8d.[1130] The tomb is still
+Stoke at the considerable cost of £433, 6s. 8d.[1130] The tomb is still
 to be seen at the south side of the shrine of St. Alban, and though
 considerably mutilated on the north face, it still remains a very fine
 specimen of Perpendicular workmanship. It bears Humphrey's arms with
@@ -12583,8 +12583,8 @@ centuries is modified. Mathieu de Coussy declares him to be the wisest,
 most powerful, and best loved prince in all England,[1140] and even
 Waurin, the follower of the Duke of Burgundy, turns aside from his
 account of the quarrel of Gloucester and Duke Philip, to say, 'car pour
-veritÃ©, sans personne blasmer, il estoit prince de grant virtu, large,
-courtois sage et trÃ¨s vaillant chevallier de corps, hardy de
+verité, sans personne blasmer, il estoit prince de grant virtu, large,
+courtois sage et très vaillant chevallier de corps, hardy de
 ceur.'[1141] Wheathampsted, his friend and supporter, was possibly
 biassed in his favour when he says:
 
@@ -12662,7 +12662,7 @@ peer of no importance, who was never summoned to Parliament.[1149] Their
 son dropped the title, and the last of the line married the daughter of
 Charles Brandon, Duke of Suffolk.[1150] Antigone survived her husband,
 and a year after his death we find her the wife of Jean d'Amancier,
-Esquire of the Horse to Charles vii of France.[1151] It is a strange
+Esquire of the Horse to Charles VII of France.[1151] It is a strange
 paradox that Humphrey's daughter should marry a man in the service of
 the King with whom he had advocated an endless war.
 
@@ -12712,7 +12712,7 @@ quell all tentative efforts at sedition, it kept him going in his
 warlike undertakings when they were not too prolonged; above all, it
 enabled him to broaden his interests, and to embrace the life of a
 patron of letters as well as that of a soldier and a politician. Yet
-sometimes he was able to restrain his ardour. During the CÃ´tentin
+sometimes he was able to restrain his ardour. During the Côtentin
 expedition he showed unexpected determination, and on occasions he could
 try persuasion when force was useless. The man who could burst into fits
 of rage under the influence of political disappointment, and jeopardise
@@ -13043,7 +13043,7 @@ FOOTNOTES:
          doings, both public and secret, at the Council of Constance.
          Cotton MS., Nero, E. v.
 
-  [1116] MartÃ¨ne and Durand, _Amplissima Collectio_, viii. 816, 817.
+  [1116] Martène and Durand, _Amplissima Collectio_, viii. 816, 817.
          Cf. Harleian MS., 826, f. 15.
 
   [1117] Add. MS., 26, 784 f. 30vo.
@@ -13053,7 +13053,7 @@ FOOTNOTES:
   [1119] See Henry's justification of the release of Orleans,
          Stevenson, _Letters and Papers_, ii. 451-460.
 
-  [1120] Register Curteys, in _ArchÃ¦ologia_, xv. 70, 71.
+  [1120] Register Curteys, in _Archæologia_, xv. 70, 71.
 
   [1121] Tanner MS., 196, f. 40vo.
 
@@ -13082,7 +13082,7 @@ FOOTNOTES:
   [1131] Camden's _Britannia_ (Gough's additions), i. 348; Grainger's
          _Biographical History of England_, i. 121.
 
-  [1132] _ArchÃ¦ologia_, viii. 104.
+  [1132] _Archæologia_, viii. 104.
 
   [1133] Camden's _Britannia_ (Gough additions), i. 348.
 
@@ -13132,7 +13132,7 @@ FOOTNOTES:
          331.
 
   [1152] _Transactions of the Bristol and Gloucestershire
-         ArchÃ¦ological Society_, iii. 308; Dugdale, i. 362. Dugdale
+         Archæological Society_, iii. 308; Dugdale, i. 362. Dugdale
          quotes an old MS. in Berkeley Castle as his authority.
 
   [1153] MSS. of the Dean and Chapter of Ely, _Hist. MSS. Rep._, xii.
@@ -13146,7 +13146,7 @@ FOOTNOTES:
 
   [1157] Amundesham, _Annales_, i. 308.
 
-  [1158] BibliothÃ¨que de Sainte GeneviÃ¨ve, MS. franÃ§ais, 777.
+  [1158] Bibliothèque de Sainte Geneviève, MS. français, 777.
          Inscription on last folio.
 
   [1159] Whethamstede, i. 179.
@@ -13249,9 +13249,9 @@ led the van of the army which set out to conquer the realms of
 knowledge, and perished before possession was assured. In no other
 Englishman of the time do we find the same love of the ancient classics
 which characterised Gloucester. His father had given books to the
-University of Oxford, but only such as dealt with mediÃ¦val lore;[1163]
+University of Oxford, but only such as dealt with mediæval lore;[1163]
 the Duke of Exeter had studied at an Italian University, but there the
-traditions of mediÃ¦valism, based on a study of law, lasted long after
+traditions of mediævalism, based on a study of law, lasted long after
 Petrarch and Boccaccio had pointed to the past as the teacher of the
 future. Henry V. showed considerable interest in literature, and
 possessed numerous books.[1164] Not once, however, is there mention of a
@@ -13266,7 +13266,7 @@ his enjoyment of a 'tale fresh and gay,'[1168] tastes which never
 extended beyond the ephemeral literature of a decadent age, though
 Hoccleve's _Regiment of Princes_, which was dedicated to Henry when
 Prince of Wales, might boast of a distant classical ancestry.[1169] To
-Henry also Walsingham dedicated his _Ipodigma NeustriÃ¦_[1170] and at his
+Henry also Walsingham dedicated his _Ipodigma Neustriæ_[1170] and at his
 death we find him in possession of three books, the _Chronicles of
 Jerusalem_, the _Voyage of Godfrey of Bouillon_, and a copy of the
 _Works_ of St. Gregory.[1171]
@@ -13274,13 +13274,13 @@ _Works_ of St. Gregory.[1171]
 Henry V., however, had no interest in the new learning which heralded
 the Renaissance; his interests were confined to the productions of
 inferior court poets, and works on theological questions. Indeed
-theology, together with law, was the staple diet of the mediÃ¦val
+theology, together with law, was the staple diet of the mediæval
 scholar. Humphrey's originality lay in the fact that he looked to the
 works of the Greeks and early Romans for his mental food, and therein
 showed the distinction which lay between the old and new learning. It
 was to Greece and her literature that both Petrarch and Boccaccio had
 stretched out their hands, to the literature of an age which had passed
-out of the ken of the mediÃ¦val scholar. Students during the Dark Ages
+out of the ken of the mediæval scholar. Students during the Dark Ages
 had known of Aristotle only through incomplete and erroneous Latin
 translations, Plato was to them but a name, most of the works of Cicero
 were lost, and only the later writers of decadent Rome were really
@@ -13304,7 +13304,7 @@ past was invoked to give birth to the future.
 Thus the encouragement of scholars and the patronage of authors was not
 the distinguishing mark of the Renaissance; it was the nature of the
 studies thus encouraged which gave a tone to the movement; the
-Humanists--the students of the _litterÃ¦ humaniores_--were the heralds of
+Humanists--the students of the _litteræ humaniores_--were the heralds of
 the new era. Humphrey stood almost alone amongst the Englishmen of his
 time in encouraging the new kind of learning. Cardinal Beaufort, it is
 true, brought back Poggio Bracciolini, famous as a Humanist, and as a
@@ -13357,7 +13357,7 @@ the tumults of war, and the disturbances of an eventful political
 career, he found time for study, and the encouragement of
 scholars.[1177] The fact that he was in many ways the typical
 Renaissance prince does not necessarily presuppose a natural aptitude
-for this rÃ´le; his actions in this respect are more the result of the
+for this rôle; his actions in this respect are more the result of the
 new influences to which he resigned himself, than the causes which led
 him to become a patron of letters. On the other hand, it is probable
 that in his early years his education was not neglected. We have shown
@@ -13411,7 +13411,7 @@ visit Italy. Yet stage by stage he outgrew the teaching of the ancient
 schoolmen, and reached out to pick the fairest flowers of Greek
 learning. In him we find a new spirit of inquiry, a desire for a wider
 knowledge of the human mind. He was a son of the Renaissance before ever
-that movement had sent its missionaries to the last outpost of mediÃ¦val
+that movement had sent its missionaries to the last outpost of mediæval
 lore. There was no teacher to point the way for Humphrey, and we must
 fall back on his inherent originality to explain the phenomenon. With no
 promptings from the scholars of the new methods, he devoted himself to
@@ -13432,7 +13432,7 @@ the Italian humanists of his day; from them he borrowed something of the
 spirit which was then becoming the most important element in Italian
 life, something of that polish of refined scholarship which marks out
 the humanistic scholar from the student of the Middle Ages. The effect
-on English scholars of his time was visible, and Ã†neas Sylvius was not
+on English scholars of his time was visible, and Æneas Sylvius was not
 slow to notice it. Writing to Adam Moleyns in answer to a letter from
 that distinguished Englishman, he complimented him in somewhat
 condescending language on his style; he marvelled how the reformed Latin
@@ -13442,7 +13442,7 @@ the illustrious Duke of Gloucester, who zealously received polite
 learning into your country. I hear that he cultivates poets and
 venerates orators, and hereby many Englishmen have become really
 eloquent. For as are princes so are servants, who improve by imitating
-their masters.'[1179] Ã†neas showed no inclination to dwell on the
+their masters.'[1179] Æneas showed no inclination to dwell on the
 virtues of Humphrey when narrating his relations with Jacqueline, so
 this praise from him deserves close attention, doubly so, as it must
 have been in no way pleasant to the recipient of the letter, who was one
@@ -13786,7 +13786,7 @@ the divine eloquence of Plato, nevertheless in our opinion it is hardly
 inferior. These books shall be always kept at hand, so that we may ever
 have something to give us pleasure, and that they may be almost as
 counsellors and companions for so much of our life as is left to us, as
-was the wisdom of Nestor to Agamemnon, and that of Achates to Ã†neas. On
+was the wisdom of Nestor to Agamemnon, and that of Achates to Æneas. On
 the same page Plato and Candido can be read and admired together, and
 the latter, no less than ourselves, be seen labouring to increase our
 dignity. We exhort, and would compel you to labour hard at the
@@ -13914,7 +13914,7 @@ indeed we find to be a heavenly constellation.' At the same time he
 recorded the arrival of nine other volumes, and told Candido that he
 awaited the rest with great impatience, most especially Cicero's _De
 Productione et Creatione Mundi_; the complete works of Aulus Gellius,
-the author of the _Noctes AtticÃ¦_, a copy of which was included in the
+the author of the _Noctes Atticæ_, a copy of which was included in the
 books given to Oxford in 1439; Cerelius, _De Natali Die_;[1217]
 Appuleius, _De Magia_; and the books of Lucius Florus. Amongst others,
 he desired Columella's famous treatise on ancient agriculture, and that
@@ -14057,7 +14057,7 @@ scholarly interests. 'You have no real pleasure,' writes Piero, 'apart
 from the reading of books.' Still more stress is laid on the Duke's
 energy, which enabled him to take an active part in the affairs of
 state, as well as to be a man of letters--a very unusual combination, so
-says the author. In this respect he is compared to Julius CÃ¦sar, who
+says the author. In this respect he is compared to Julius Cæsar, who
 waged war and wrote his _Commentaries_ at the same time; to Augustus,
 and to Theodosius, who fought and judged by day, and wrote books by
 night, for, unlike his compatriots, he did not spend his leisure in
@@ -14213,13 +14213,13 @@ which convinced him that the book would form an ideal present for
 Alfonso, and he accordingly sent it to him as a token of his great
 esteem.[1240] No present could be more acceptable to the King of
 Naples, who, it is said, treated one of the bones of Livy, sent to him
-by the Republic of Venice, as a mediÃ¦val churchman would have treated
+by the Republic of Venice, as a mediæval churchman would have treated
 the relic of a saint. Strangely enough, another great prince of the new
 learning presented a copy of Livy to Alfonso, for this was the present
 with which Cosimo de' Medici made a friend of a former opponent.[1241]
 The copy which Humphrey sent was probably that one which Bedford had
-presented to him, and which is now in the BibliothÃ¨que de Sainte
-GeneviÃ¨ve at Paris; for when Charles VIII. of France invaded Naples,
+presented to him, and which is now in the Bibliothèque de Sainte
+Geneviève at Paris; for when Charles VIII. of France invaded Naples,
 Alfonso's fine library was dispersed, and it is therefore possible that
 this item found its way back to the land of its origin by this
 circuitous route.
@@ -14229,7 +14229,7 @@ ANTONIO DI BECCARIA
 Humphrey was not content merely to correspond with the Italian
 Humanists; he brought several of them over to England to assist him in
 the study of the books he procured from their fellow-countrymen. So well
-known was this custom of his, that Ã†neas Sylvius, when writing to
+known was this custom of his, that Æneas Sylvius, when writing to
 Sigismund of Austria, alluded to it in laudatory terms.[1242] No more
 striking evidence of the great reputation which the Duke of Gloucester
 possessed in Italy is to be found, than the way that this distinguished
@@ -14299,7 +14299,7 @@ touches on his knowledge of history past and present, his energy in
 procuring translation of the Greek classics, not sparing trouble or
 expense; his diligent study, which led him to waste no moment of his
 time; but the greatest stress is laid on the fact that in an age of
-darkness he shone forth as the one true light. Julius CÃ¦sar and Augustus
+darkness he shone forth as the one true light. Julius Cæsar and Augustus
 might deserve their meed of praise as students and patrons in times when
 to be unlearned was a disgrace, but to Humphrey fell the greater glory
 of having recalled scholarship and literature 'from death unto life' at
@@ -14415,7 +14415,7 @@ FOOTNOTES:
 
   [1169] Hoccleve's _Works_, iii. 75.
 
-  [1170] _Ipodigma NeustriÃ¦_, 1-5.
+  [1170] _Ipodigma Neustriæ_, 1-5.
 
   [1171] Rymer, IV. iv. 105.
 
@@ -14429,26 +14429,26 @@ FOOTNOTES:
   [1175] Delisle, _Sir Kenelm Digby_, Paris, 1892, p. 11; Delisle,
          _Cabinet des Manuscrits_, i. 52, 53.
 
-  [1176] BibliothÃ¨que de Sainte GeneviÃ¨ve, MS. franÃ§ais, 777.
+  [1176] Bibliothèque de Sainte Geneviève, MS. français, 777.
 
   [1177] See Bale, 583, and the testimony of several Italian
          humanists.
 
   [1178] Monstrelet, 265.
 
-  [1179] Ã†n. Sylv., _Opera_, 548, _Epistola_ lxiv.
+  [1179] Æn. Sylv., _Opera_, 548, _Epistola_ lxiv.
 
   [1180] For this date see Voigt, ii. 256. For Poggio's visit to
          England see Shepherd's _Life of Poggio_, 136.
 
-  [1181] BibliothÃ¨que Nationale, MS. latin, 8537, f. 300.
+  [1181] Bibliothèque Nationale, MS. latin, 8537, f. 300.
 
   [1182] _Archivio Lombardo_, vol. x. Anno xx. p. 62.
 
   [1183] _Engl. Hist. Review_, xix. 519. Letter of Candidus to
          Gloucester.
 
-  [1184] Leonardi Bruni, _EpistolÃ¦_, vol. ii. lib. VIII. No. 6.
+  [1184] Leonardi Bruni, _Epistolæ_, vol. ii. lib. VIII. No. 6.
 
   [1185] Bodley MS., 2143 (Auct. F., v. 27), f. 1. The dedication is
          printed in _Chandler Catalogue_ of the editions of Aristotle,
@@ -14476,7 +14476,7 @@ FOOTNOTES:
          dated back from the time when he translated the _Vita Henrici
          Quinti_ of Livius into Italian. As this was done in 1463,
          after Gloucester's death, it cannot exactly be said to have
-         originated his connection with the translator. See _TabulÃ¦
+         originated his connection with the translator. See _Tabulæ
          Codicum Palatina Vindobonensi_, ii. 106.
 
   [1194] _Eng. Hist. Review_, xix. 513, 514; _Bibliographia_, i. 326.
@@ -14494,7 +14494,7 @@ FOOTNOTES:
          Gloucester and Candido. Cf. Sassi, _Historia
          Literaria-Typographica_, p. ccc.
 
-  [1199] Leonardi Bruni, _EpistolÃ¦_, vol. ii. lib. VIII. No. 6, pp.
+  [1199] Leonardi Bruni, _Epistolæ_, vol. ii. lib. VIII. No. 6, pp.
          119-122.
 
   [1200] _Cod. Riccardiano_, 827, f. 61vo.
@@ -14532,7 +14532,7 @@ FOOTNOTES:
 
   [1212] _Ibid._, xix. 519. Letter of Candido to Gloucester. The same
          merchants had brought Bruni's translation of the _Politics_
-         to Gloucester; Leonardi Bruni, _EpistolÃ¦_, vol. ii. liber
+         to Gloucester; Leonardi Bruni, _Epistolæ_, vol. ii. liber
          VIII. No. 6.
 
   [1213] _Eng. Hist. Review_, xix. 520. Letter of Gloucester to
@@ -14612,7 +14612,7 @@ FOOTNOTES:
          See Roscoe, _Life of Lorenzo de Medici_ (London, 1846), 64,
          485.
 
-  [1242] Ã†n. Sylv., _Opera_, 602, _Epist._ cv.
+  [1242] Æn. Sylv., _Opera_, 602, _Epist._ cv.
 
   [1243] _Beckington Correspondence_, i. 223, _et passim_.
 
@@ -14704,7 +14704,7 @@ monastery out of his own pocket,[1267] and presenting at least one book
 to the students at Oxford, probably to the foundation of Gloucester
 College, which was connected with the House of St. Albans.[1268] From
 time to time we find gifts of books to Humphrey entered in the accounts
-of the monastery, one of which alone cost Â£6, 13s. 4d.,[1269] a fact
+of the monastery, one of which alone cost £6, 13s. 4d.,[1269] a fact
 which may help us to estimate the enormous sums which the Duke must have
 spent in collecting his great library. On another occasion we hear of
 the gift of three books to the Duke of Gloucester, one of them being a
@@ -14773,7 +14773,7 @@ fables of poets, and forgo the wisdom of sages at enmity with God, lest
 we incur the doom of endless death by sentence of our Lord.' Humphrey
 and Capgrave were both faithful sons of the Church in which they had
 been born, yet they did not hesitate to denounce the scholarship of the
-mediÃ¦val ecclesiastics which had developed into a science of
+mediæval ecclesiastics which had developed into a science of
 superstition, and to herald a new era in which knowledge was to be the
 birthright of all men, a means whereby they might perfect their lives by
 a realisation of the goodliness of humanity.
@@ -14824,7 +14824,7 @@ John Homme, Canon of Hereford, and at one time the Duke's
 secretary;[1281] Richard Wyot, his Dean of the Chapel;[1282] John
 Everdon, who successfully petitioned for a Canonry in the Collegiate
 Church of Hastings;[1283] and one Henry Abingdon, who for services
-rendered received an annuity of Â£8 per annum.[1284] All these probably
+rendered received an annuity of £8 per annum.[1284] All these probably
 were employed at one time or another in copying books for their master,
 and all found the reward they sought at the hands of their employer, a
 fact which leads us to believe that the complaints of Bruni and Candido
@@ -14902,7 +14902,7 @@ predecessors.[1292]
 JOHN LYDGATE
 
 Apart from these original poems, Lydgate produced one work commissioned
-by the Duke. This was a verse translation of Boccaccio's encyclopÃ¦dic
+by the Duke. This was a verse translation of Boccaccio's encyclopædic
 Latin work _De casibus Virorum et Feminarum illustrium_, though a French
 translation by Laurent de Premierfait and not the original was used by
 the English versifier. The title runs, 'Here beginneth the book callyd I
@@ -15285,8 +15285,8 @@ had received in 1438, he forwarded what must have been an important part
 of his library, in the shape of one hundred and twenty-nine
 volumes,[1337] 'a more splendid donation than any prince or king had
 given since the foundation of the University,' valued as it was at more
-than Â£1000.[1338] The letter of thanks spoke in naturally high terms of
-the Duke's wisdom and learning, and compared him to Julius CÃ¦sar, who
+than £1000.[1338] The letter of thanks spoke in naturally high terms of
+the Duke's wisdom and learning, and compared him to Julius Cæsar, who
 founded a library in Rome, for he, like Gloucester, combined the
 attributes of a great soldier with those of an enthusiastic
 scholar.[1339] Not content with their own thanks, these grateful
@@ -15386,7 +15386,7 @@ LAST RELATIONS WITH OXFORD
 This last request of Oxford, though only suggested, did not go
 unanswered, for Humphrey appeared in the House of Congregation, and
 publicly promised to give the rest of his Latin books to the University
-together with Â£100 towards the new Divinity school, a promise which he
+together with £100 towards the new Divinity school, a promise which he
 renewed just before his death. But this promise was never fulfilled, and
 in spite of numerous letters to the King, the executors of the Duke's
 will and many other influential persons, neither the books nor the money
@@ -15423,7 +15423,7 @@ triumph in the unlovely days of Edward VI., the tangible evidences of
 the 'Good Duke's' benefactions to his University were lost. How or
 exactly when this happened we cannot tell, but of the original
 manuscripts not one was left in the Library. A fanatical abhorrence of
-illuminations and rubricated initials, combined with a mediÃ¦val
+illuminations and rubricated initials, combined with a mediæval
 disregard of the intellectual side of life, destroyed, scattered and
 lost, in most cases for ever, these interesting relics of an interesting
 personality.[1360] The student of the early Renaissance in England has
@@ -15490,16 +15490,16 @@ Duns Scotus, and many other famous schoolmen. The early Fathers are
 well represented, some only by volumes of letters, others by their
 better-known works, and these last seem to be more the imaginative than
 the doctrinal theologians of their day. Taken as a whole, the theology
-of Humphrey's library betrays a tendency to ignore mediÃ¦val
+of Humphrey's library betrays a tendency to ignore mediæval
 doctrinaires, and to turn to the early Fathers, who wrote before
-Imperial Rome had passed into final decay. MediÃ¦val law shared the fate
-of mediÃ¦val theology, and even more markedly. Hardly any of the numerous
+Imperial Rome had passed into final decay. Mediæval law shared the fate
+of mediæval theology, and even more markedly. Hardly any of the numerous
 treatises on a subject which formed part of the staple food of the
-mediÃ¦val mind appear on Humphrey's lists; canon law is but sparsely
+mediæval mind appear on Humphrey's lists; canon law is but sparsely
 represented, civil law is almost entirely neglected.
 
 Humphrey's library was fairly well supplied with historical writers. We
-find the works of Suetonius, the historian of the twelve CÃ¦sars, the
+find the works of Suetonius, the historian of the twelve Cæsars, the
 Jewish historian Josephus, Tragus Pompeius, and Cassidorus; among later
 historians Eusebius and Vincent of Beauvais, Bede, and Higden. Among
 other historical works were a copy of the _Flores Historiarum_, an
@@ -15514,7 +15514,7 @@ physician-in-chief, Gilbert Kymer. Side by side with these stand all the
 leading authorities on astronomy and astrology, including the works of
 the chief Arabian philosophers and Roger Bacon's _De Celo et Mundo_. No
 mention is made of Bacon's _Opus Majus_, nor are there any traces of any
-scientific treatises outside those known to the mediÃ¦val scholars. The
+scientific treatises outside those known to the mediæval scholars. The
 interest evinced by the Duke in medicine is both interesting and
 unusual; his knowledge of astrology proved one of the most fatal of his
 accomplishments in the days when his wife was accused of sorcery. A word
@@ -15534,7 +15534,7 @@ Western Europe till Palla degli Strozzi had them brought to Italy from
 Constantinople, yet within a few years of this they were to be found in
 Latin translations among the Duke of Gloucester's books. Other classical
 works there were in that collection. Five more volumes of Aristotle, the
-_Republic_, the _Meno_, and the _PhÃ¦drus_ of Plato, all the known works
+_Republic_, the _Meno_, and the _Phædrus_ of Plato, all the known works
 of Cicero, and a volume of that 'most learned of the Romans,' Varro;
 Sallust, the historian of the Cataline conspiracy; grammarians such as
 Aulus Gellius and Priscian; rhetoricians such as Quintilian; poets such
@@ -15546,7 +15546,7 @@ been relearned in Italy during the Duke's lifetime, and a step towards
 bringing it to England was taken in the presentation of a Greek
 dictionary to Oxford. Finally, Humphrey showed his sympathy with the men
 of the new learning by possessing five volumes of Boccaccio and seven
-of Petrarch, and his appreciation of what was best in mediÃ¦val thought
+of Petrarch, and his appreciation of what was best in mediæval thought
 by the inclusion of a volume of Dante and a commentary thereon amongst
 his books.[1364]
 
@@ -15585,7 +15585,7 @@ too glad to secure a copy of the author he wanted in whatever language
 it was written, and moreover a large number of these French books,
 notably the Livy, were presents from friends, and not private purchases
 on the part of the Duke. It is, however, interesting to note that whilst
-he gave a Latin version of the military treatise of Ã†gidius Romanus to
+he gave a Latin version of the military treatise of Ægidius Romanus to
 Oxford, he retained in his own hands a French version of the same
 work.[1372] Undoubtedly, Humphrey read gladly and largely in French, but
 there is ample evidence that he was also a finished Latin scholar, and
@@ -15604,7 +15604,7 @@ the chief new discovery of the Italian Humanists.[1375]
 Earnest though he was in the study of the ancient classics, Gloucester
 did not allow it to restrict his mental vision. As a practical soldier
 he was interested in the theory of military operations, and besides his
-copy of the work of Ã†gidius Romanus he possessed in his private library
+copy of the work of Ægidius Romanus he possessed in his private library
 a French version of the _Epitome Institutionum Rei Militaris_ of
 Vegetius.[1376] This treatise, which deals with the organisation of
 armies, the training of soldiers, and other kindred subjects, was
@@ -15661,7 +15661,7 @@ enjoyed the bounty of the Duke of Gloucester.
 GLOUCESTER'S LITERARY POSITION
 
 Just as Humphrey was a great student so was he a great personality in
-the life of England, the MÃ¦cenas of the new learning, and the friend of
+the life of England, the Mæcenas of the new learning, and the friend of
 all scholars. A considerable portion of his books were presents from
 various people, and he seems to have been always approachable by any one
 who could take an interest in any branch of knowledge. Those who gave
@@ -15715,16 +15715,16 @@ Beyond the nature of the books he collected and a few words of formal
 appreciation of the works of Plato, we have nothing to guide our
 judgment, for though a patron and a student, he was not himself an
 author, in spite of statements to the contrary.[1394] There still
-exists a copy of certain astrological tables entitled _TabulÃ¦ Humfridi
-ducis GloucestriÃ¦ in judiciis artis geomansie_, but this was merely a
+exists a copy of certain astrological tables entitled _Tabulæ Humfridi
+ducis Gloucestriæ in judiciis artis geomansie_, but this was merely a
 compilation made at his command.[1395] He was content to encourage
-learning, and to qualify himself for this rÃ´le by study. Thus the Duke
+learning, and to qualify himself for this rôle by study. Thus the Duke
 of Gloucester devoted a large amount of his superfluous energy to the
 really great work of encouraging learning in England; yet at first sight
 it may seem that he laboured in vain. England did not at once adopt the
 new doctrines that were paving the way to modern methods of study, and
 it has been thought that Humphrey simply worked in the spirit of the
-mediÃ¦val scholar, and did not in any way appreciate the importance of
+mediæval scholar, and did not in any way appreciate the importance of
 his actions. England had lagged behind other nations in accepting the
 doctrines of the Renaissance scholars. Men imbued with the scholastic
 spirit had journeyed to Italy before the days of Duke Humphrey, but they
@@ -15738,7 +15738,7 @@ it.[1396] The Italian scholar therefore had been contemptuous of his
 English contemporary, but a new era dawns when Humphrey begins to take
 an interest in Italian scholarship. The Italians who wrote to him showed
 clearly in their letters that they understood their patron's interest to
-be intelligent and quite different to the mediÃ¦val conceptions of his
+be intelligent and quite different to the mediæval conceptions of his
 predecessors, and in some cases we can see the genuine appreciation of
 the scholar peeping through the adulation of the retainer. His love for
 Plato, and his clear understanding of the contrast between his
@@ -15750,7 +15750,7 @@ traces of that critical faculty which characterised the new movement. He
 did not look on the classics as an allegorical commentary on the
 Scriptures, and as a basis for Christian Theology; he studied them from
 the literary and philosophical point of view, and refused to accept the
-system laid down by the mediÃ¦val schoolmen. He was the first great
+system laid down by the mediæval schoolmen. He was the first great
 Englishman to introduce these new ideas into England, though there were
 other scholars of the period who understood the new doctrines, if they
 did not preach them; men like Andrew Holles, who after long study in
@@ -15772,7 +15772,7 @@ had done, but he had brought himself into nearer touch with its
 intellectual life than any other Englishman. The man who was the patron
 of Leonardo Bruni, the constant correspondent of Pier Candido Decembrio,
 the friend of Piero del Monte, and the literary acquaintance of Alfonso
-of Aragon, the man who more than once was picked out by Ã†neas Sylvius
+of Aragon, the man who more than once was picked out by Æneas Sylvius
 for literary appreciation, was far more in sympathy with Italian
 aspirations than such a one as Thomas Beaufort, Duke of Exeter, who
 showed no signs of having been influenced in any way by his sojourn at
@@ -15830,7 +15830,7 @@ time in England men were able to know something of what the ancients had
 written. In the book-chests of Oxford lay the seeds of the English
 Renaissance. The immense importance of access to these books may easily
 be misunderstood at the present day; it is hard to realise completely
-the limitations which surrounded the mediÃ¦val scholar, but once this is
+the limitations which surrounded the mediæval scholar, but once this is
 achieved, the presence of these works, which reflected, if they did not
 very accurately represent, the ideas of classical writers, will be fully
 appreciated.
@@ -15969,7 +15969,7 @@ FOOTNOTES:
          of the Library of the Earl of Jersey at Osterley Park, _Hist.
          MSS. Report_, viii. Part i. p. 100.
 
-  [1294] BibliothÃ¨que Nationale, MS. franÃ§ais, 12,421.
+  [1294] Bibliothèque Nationale, MS. français, 12,421.
 
   [1295] On this point see Hortis, 646.
 
@@ -16073,7 +16073,7 @@ FOOTNOTES:
   [1338] _Ibid._, 177-179, 184.
 
   [1339] _Ibid._, 177-179. This was not the first time that Gloucester
-         had been likened to Julius CÃ¦sar.
+         had been likened to Julius Cæsar.
 
   [1340] _Epist. Acad._, 184.
 
@@ -16161,7 +16161,7 @@ FOOTNOTES:
 
   [1370] See Appendix A.
 
-  [1371] BibliothÃ¨que de Ste. GeneviÃ¨ve, MS. franÃ§ais, 777.
+  [1371] Bibliothèque de Ste. Geneviève, MS. français, 777.
 
   [1372] Cambridge University Library, MS. Ee. 2, 17.
 
@@ -16170,15 +16170,15 @@ FOOTNOTES:
 
   [1374] _Epist. Acad._, 246.
 
-  [1375] The book borrowed from Oxford was a copy of the _PhÃ¦drus_ of
-         Plato. In the _EpistolÃ¦ AcademicÃ¦_ this volume is called the
-         'PhÃ¦do,' but a reference to the entry in the Register shows
-         it to be a misprint for the _PhÃ¦drus_, a mistake first
+  [1375] The book borrowed from Oxford was a copy of the _Phædrus_ of
+         Plato. In the _Epistolæ Academicæ_ this volume is called the
+         'Phædo,' but a reference to the entry in the Register shows
+         it to be a misprint for the _Phædrus_, a mistake first
          discovered by Mr. Gibson of the Bodleian Library.
 
   [1376] Cambridge University Library, MS. Ee. 2, 17.
 
-  [1377] BibliothÃ¨que Nationale, MS. franÃ§ais, 12,583.
+  [1377] Bibliothèque Nationale, MS. français, 12,583.
 
   [1378] Cotton MS., Nero, E. v.
 
@@ -16188,7 +16188,7 @@ FOOTNOTES:
 
   [1381] Harleian MS., 33; King's College MS., 27.
 
-  [1382] Egerton MS., 617, 618; BibliothÃ¨que Nationale, MS. franÃ§ais,
+  [1382] Egerton MS., 617, 618; Bibliothèque Nationale, MS. français,
          2.
 
   [1383] For a description of these volumes see Appendix A.
@@ -16203,17 +16203,17 @@ FOOTNOTES:
 
   [1387] Corpus Christi College MS., ccxliii.
 
-  [1388] BibliothÃ¨que Nationale, MS. latin, 8537.
+  [1388] Bibliothèque Nationale, MS. latin, 8537.
 
   [1389] Bodley MS., Hatton, 36.
 
-  [1390] BibliothÃ¨que de Ste. GeneviÃ¨ve, MS. franÃ§ais, 777.
+  [1390] Bibliothèque de Ste. Geneviève, MS. français, 777.
 
-  [1391] BibliothÃ¨que Nationale MS., franÃ§ais, 12,421.
+  [1391] Bibliothèque Nationale MS., français, 12,421.
 
   [1392] Cambridge University Library, MS. Ee. 2, 17.
 
-  [1393] BibliothÃ¨que Nationale, MS. franÃ§ais, 2.
+  [1393] Bibliothèque Nationale, MS. français, 2.
 
   [1394] Bale (1559 ed.), 583.
 
@@ -16313,7 +16313,7 @@ Corpus Christi there is preserved a large folio volume (Corpus Christi
 MS., ccxliii.), containing numerous treatises of a philosophic nature in
 Latin, all in the handwriting of 'Fredericus Naghel de Trajecto,' and
 dated 1423 'in alma Universitate Oxoniensi.' Amongst the most
-interesting items are Latin translations of the _PhÃ¦do_ and _Meno_ of
+interesting items are Latin translations of the _Phædo_ and _Meno_ of
 Plato, the last of which concludes the volume, and is followed by
 Gloucester's autograph, 'Cest livre est A moy Homfrey duc de Gloucestre
 du don (some words are here erased) treschier en Dieu labbe de seint
@@ -16496,7 +16496,7 @@ illustrated at the beginning of each of the two books of which it is
 composed. At the end an erased but just decipherable inscription reads,
 'Cest livre est a moy Homfrey duc de Gloucestre (see Paleographical
 Society's _Facsimiles_, Second Series, Plate 169, and also Paulin Paris,
-_Manuscrits FranÃ§ais_ (Paris 1840), iii. 299-328). Neither this nor a
+_Manuscrits Français_ (Paris 1840), iii. 299-328). Neither this nor a
 still more beautifully adorned volume containing certain selected Psalms
 (Royal MS., 2, B. i.) was given to Oxford. This last is ornamented
 throughout with initial letters and pendants in gold and colours, those
@@ -16507,7 +16507,7 @@ take to represent the Duke kneeling at a Prie-Dieu, and being presented
 to the Saviour by one who may be St. Alban, or more probably David.
 Humphrey is here represented as quite a young man, which would agree
 with the date of the volume, which may be fixed about 1415. (See
-_Facsimiles of MS. and Inscriptions_, published by the PalÃ¦ographical
+_Facsimiles of MS. and Inscriptions_, published by the Palæographical
 Society, Second Series, Plate 201.) Besides the Psalms and calendar
 above mentioned a few Latin prayers are added, and the whole is preceded
 by a dedication to God's service. At the end stands the inscription,
@@ -16590,7 +16590,7 @@ the Italian Humanists in England. This, together with the portrait, have
 been declared undoubted evidence that it was the copy presented to
 Humphrey, and the presence of his arms in the initial letter of the poem
 strengthens, though it does not entirely confirm, this suggestion (see
-article in the _AthenÃ¦um_ for November 17, 1888, p. 664). On the other
+article in the _Athenæum_ for November 17, 1888, p. 664). On the other
 hand, the fact that the introduction and text are written in different
 hands, would lead us to think that this was not the copy presented by
 the author to his patron.
@@ -16600,7 +16600,7 @@ occurs the inscription, 'Cest livre est A moy Honfrey duc de Gloucestre
 du don mess Robert Roos chevalier mon cousin' (Cambridge University
 Library, MS. Ee. 2, 17. It is described by P. Mayer in _Romania_, xv.
 264, 265). It contains the last two sheets of a French translation of
-the _De Regimine Principum_ of Ã†gidius Romanus, and the _Rei Militaris
+the _De Regimine Principum_ of Ægidius Romanus, and the _Rei Militaris
 Instituta_ of Flavius Renatus Vegetius, also translated into French by
 Jean de Vignai. Also at Cambridge, in the Library of King's College,
 there is a manuscript which is thought to have once belonged to Duke
@@ -16625,9 +16625,9 @@ Oxford sought so long and so vainly to obtain.
 
 Some of Gloucester's books in course of time have found their way across
 the Channel, and six volumes, once part of his library, are now extant
-in France. In the BibliothÃ¨que Nationale there are two Latin books which
+in France. In the Bibliothèque Nationale there are two Latin books which
 bear his autograph. The first is a collection of ancient panegyrics
-(BibliothÃ¨que Nationale, MS. latin, 7805), on the first fly-leaf of
+(Bibliothèque Nationale, MS. latin, 7805), on the first fly-leaf of
 which is written in the scribe's hand, 'Est illustrissimi domini ducis
 Gloucestrensis,' which shows that the volume was written for Gloucester
 himself. These panegyrics are addressed by ancient writers to various
@@ -16638,7 +16638,7 @@ at the beginning of each panegyric. On the verso of the last folio
 Humphrey has written 'Cest livre est A moy Homfrey duc de Gloucestre,'
 and by him it was given to Oxford in 1443 (_Epist. Acad._, 235). The
 other Latin work is a collection of the letters of Cicero, which was
-given to the Duke by his friend Zano, Bishop of Bayeux (BibliothÃ¨que
+given to the Duke by his friend Zano, Bishop of Bayeux (Bibliothèque
 Nationale, MS. latin, 8537). It is written in a clear, clerkly hand of
 the fifteenth century, and adorned with occasional illuminated letters.
 The copyist was evidently no Greek scholar, for there are frequent gaps
@@ -16658,8 +16658,8 @@ In the same library we find three French manuscripts which Gloucester
 once possessed, and which, owing to the language in which they are
 written, do not naturally form part of his gifts to Oxford, consisting
 as these did exclusively of Latin works. An elaborately illuminated
-manuscript bearing the title 'Le Bible hystoriaux' (BibliothÃ¨que
-Nationale, MS. franÃ§ais, 2) bears on the last folio written in a large
+manuscript bearing the title 'Le Bible hystoriaux' (Bibliothèque
+Nationale, MS. français, 2) bears on the last folio written in a large
 hand, not that of the scribe, the inscription, 'Le dixiesme jour de
 Septembre lan mil quatrecens vingt sept fut cest livre donne a tres
 hault & tres puissant prince Humfrey duc de Gloucestre Conte de Haynau
@@ -16678,7 +16678,7 @@ Court of his great enemy.
 
 The second of the French books once belonging to Humphrey, and now in
 this library, is a translation of the _Decameron_ of Boccaccio
-(BibliothÃ¨que Nationale, MS. franÃ§ais, 12,421). It is but poorly
+(Bibliothèque Nationale, MS. français, 12,421). It is but poorly
 written, though a small portion of it is in a slightly better hand than
 the rest. A few coloured letters relieve the monotony of bad writing,
 and some fairly frequent illustrations help to give colour to the
@@ -16693,8 +16693,8 @@ of the last folio there is to be found a faded yet quite legible
 inscription, which shows traces of an attempt at erasure. It reads,
 'Cest livre est A moy Homfrey duc de Gloucestre du don mon tres chier
 cousin le conte de Warwic.' Less ornate is the third French manuscript
-in the BibliothÃ¨que Nationale, which we can trace back to Duke
-Humphrey's library (BibliothÃ¨que Nationale, MS. franÃ§ais, 12,583). This
+in the Bibliothèque Nationale, which we can trace back to Duke
+Humphrey's library (Bibliothèque Nationale, MS. français, 12,583). This
 is a poorly written copy of the early French romance, _Le Roman de
 Renard_. At the head of the first words stands a picture of inferior
 execution, and beyond this no adornment is attempted. The text ends
@@ -16709,8 +16709,8 @@ seems no reason to doubt the accuracy of the statement.
 The list of Gloucester's books now extant in Paris is brought to a
 conclusion with a large folio volume of 433 folios containing Livy's
 _Roman History_ translated into French by Pierre Bersuyre, or Bercheure,
-or Berchoire, and dedicated to King John of France (BibliothÃ¨que de Ste.
-GeneviÃ¨ve, MS. franÃ§ais, 777). The manuscript is beautifully
+or Berchoire, and dedicated to King John of France (Bibliothèque de Ste.
+Geneviève, MS. français, 777). The manuscript is beautifully
 illuminated, and at the head of the title-page there stands a painting
 divided into nine medallions showing various episodes in the history of
 Rome. There are two other large title-pages in the volume, and others
@@ -16719,8 +16719,8 @@ library, for the colours of the illuminations are blue, red, and white,
 such as are found in all his books. Thence it probably passed into the
 possession of Charles VI., for a volume closely resembling it is to be
 found in the catalogue of this king's library drawn up by order of
-Bedford (_Catalogue des Manuscrits de la BibliothÃ¨que de Sainte
-GeneviÃ¨ve_, par Ch. Kohler (Paris, 1893), vol. i. p. 370, quoting a MS.
+Bedford (_Catalogue des Manuscrits de la Bibliothèque de Sainte
+Geneviève_, par Ch. Kohler (Paris, 1893), vol. i. p. 370, quoting a MS.
 in the same library). The English regent sent it to his brother, who in
 his turn possibly sent it to Alfonso of Aragon. Below a rubbed space at
 the end of the last sentence, which is supposed to have held the _ex
@@ -16751,18 +16751,18 @@ to be perpetually boren by thabbot and Convent of the Monastery of Seint
 Alban.' The entries contained in the schedule are as follows:--
 
 Paid by the said Abbot and convent 'for making of the tombe and place of
-sepulture,' Â£433, 6s. 8d.
+sepulture,' £433, 6s. 8d.
 
 To two priests for saying Mass daily at the altar of the tomb at the
-rate of 6d. a day each. Â£18, 5s. per annum.
+rate of 6d. a day each. £18, 5s. per annum.
 
 To the Abbot for his expenses on the 'day of anniversary of the Duke,'
 40s. per annum, and to the Prior for the same, 20s. per annum.
 
 To 40 monks in orders, to be paid on this 'day of anniversary' every
-year, 6s. 8d. each, Â£13s, 6s. 8d.
+year, 6s. 8d. each, £13s, 6s. 8d.
 
-To 8 monks as above on the same day, 3s. 4d. each, Â£1, 6s. 8d.
+To 8 monks as above on the same day, 3s. 4d. each, £1, 6s. 8d.
 
 To an 'ankress' at St. Peter's Church and another at St. Michael's on
 that same day each year, 20d.
@@ -16770,14 +16770,14 @@ that same day each year, 20d.
 To be distributed to the poor on that day each year, 40s.
 
 To 13 poor men bearing torches round the tomb on that day each year, 2s.
-6d. each, Â£1, 8s. 2d.
+6d. each, £1, 8s. 2d.
 
 To wax burnt daily at the Duke's Mass and torches at his anniversary,
-Â£6, 13s. 4d.
+£6, 13s. 4d.
 
 To the kitchen of the monastery 'in relief of the great decay of the
 livelod of the said monasterie in the marches of Scotland, which before
-time had been appointed to the said Kechyn,' Â£60 per annum.
+time had been appointed to the said Kechyn,' £60 per annum.
 
 In payment for these expenses, the Duke transferred to the monastery the
 alien Priory of Pembroke in his possession.
@@ -17057,7 +17057,7 @@ APPENDIX E
 PORTRAITS OF GLOUCESTER
 
 
-I. In a book of portraits in Vol. 266 of the _BibliothÃ¨que de la ville
+I. In a book of portraits in Vol. 266 of the _Bibliothèque de la ville
 d'Arras_, on folio 37, there is a portrait bearing Gloucester's name, a
 reproduction of which hangs in the Bodleian Library. It appears among a
 series of portraits of people from the fourteenth to the seventeenth
@@ -17087,7 +17087,7 @@ here a more successful attempt at portraiture than in the Oriel
 manuscript, and the type of face, long, clean shaven, almost apathetic,
 is similar to that in the Arras drawing. Nevertheless, here as elsewhere
 there is no real character in the face of Humphrey, and still less in
-that of his wife; there is, indeed, a strong suggestion of mediÃ¦val
+that of his wife; there is, indeed, a strong suggestion of mediæval
 formalism (Cotton MS., Nero, D. vii. f. 154).
 
 IV. Among the royal collection of manuscripts in the British Museum
@@ -17222,11 +17222,11 @@ George Chastellain of the unusual and interesting events which happened
 in his days and runs as follows:
 
               'Par fortune semestre
-              Veis Ã  l'oeil viviment
+              Veis à l'oeil viviment
               Le Grant duc de Glocestre
               Meurdrir piteusement;
               En vin plain une cuve
-              Failloit qu'estranglÃ© fust
+              Failloit qu'estranglé fust
               Cuidant par celle estuve
               Que la morte n'y parust.'
 
@@ -17285,7 +17285,7 @@ Like his brothers, the Duke of Gloucester adopted the arms of England
 and France quarterly, but whereas their arms were differentiated with
 various labels, his own were surmounted with a border argent (Garter
 Types, College of Arms). At this period the arms of France, as borne by
-the English Kings, were changed from 'azure semÃ©e of fleur de lys or' to
+the English Kings, were changed from 'azure semée of fleur de lys or' to
 'azure three fleur de lys or,' and this is the only difference which
 marks Humphrey's arms from those of a predecessor in the Gloucester
 title, Thomas of Woodstock. Nicholas Upton, a follower and friend of
@@ -17349,7 +17349,7 @@ The second badge was on a shield sable three ostrich feathers argent
 surrounded by the Garter and supported to the Dexter by the Greyhound,
 to the Sinister by the Antelope. (Window in Greenwich Church, College of
 Arms MS., L. 14, 105, B.) These appear in the Greenwich window (Ashmole
-MS., 1121, f. 228. Cf. _ArchÃ¦ologia_, xxxi. 368), though from
+MS., 1121, f. 228. Cf. _Archæologia_, xxxi. 368), though from
 impressions of his seal he seems then only to have used two feathers.
 (Seal described in Cartulaire, iv. 440, and Seal attached to British
 Museum, _Additional Charters_, 6000.)
@@ -17392,7 +17392,7 @@ the Duke himself holding a drawn sword and riding on a horse.
 In the Mons archives attached to a charter granted by Gloucester there
 is a round seal which is described as follows: 'Il represente un ecu
 ecartele aux 1 et 4 a trois fleurs de lis et aux 2 et 3 trois lions
-passants, surmountÃ© d'un heaume qui a pour cimier un lÃ©opard, et accostÃ©
+passants, surmounté d'un heaume qui a pour cimier un léopard, et accosté
 de deux plumes; supports: deux beliers.' The legend runs: 'Sigilu.
 Humfridi. filii et fratris. regis. ducis Glocestrie. comitis Pembr. et
 camerarii Anglie' (_Cartulaire_ iv. 440).
@@ -17457,7 +17457,7 @@ _I. PRINTED BOOKS_
     Deputy Keeper of the Public Records. Nos. 44       Rolls._
     and 48. Appendices. London, 1883, 1887.
 
-  Catalogue des Rolles Gascons, Normans et FranÃ§ais.  _Carte._
+  Catalogue des Rolles Gascons, Normans et Français.  _Carte._
     By Thomas Carte. London, 1743.
       Certain selections from these rolls only.
 
@@ -17475,8 +17475,8 @@ _I. PRINTED BOOKS_
     Archives of the City of London, 1276-1419. By      London._
     H. T. Riley. London, 1868.
 
-  Collection GÃ©nÃ©rale des Documents FranÃ§ais.         _Delpit, Doc. Fr._
-    PubliÃ©s par Jules Delpit. Paris, 1847.
+  Collection Générale des Documents Français.         _Delpit, Doc. Fr._
+    Publiés par Jules Delpit. Paris, 1847.
       Documents drawn mainly from the Archives of
         the City of London.
 
@@ -17493,7 +17493,7 @@ _I. PRINTED BOOKS_
         during 1830, but unfortunately discontinued
         owing to a lack of support.
 
-  Rechnungen Ã¼ber Heinrich von Derby's                _Prutz._
+  Rechnungen über Heinrich von Derby's                _Prutz._
     Preussenfahrten, von Dr. Hans Prutz. Leipzig,
     1893.
        Accounts of Henry's Treasurer. A similar
@@ -17505,24 +17505,24 @@ _I. PRINTED BOOKS_
     1790.
 
   Preuves de l'Histoire de Bourgogne. In vol. iv. of  _Plancher,
-    Histoire GÃ©nÃ©rale de Bourgoyne par Urbain          Preuves._
+    Histoire Générale de Bourgoyne par Urbain          Preuves._
      Plancher. Dijon, 1781.
 
-  ParticularitÃ©s Curieuses sur Jacqueline de BaviÃ¨re, _ParticularitÃ©s
-    Comtesse de Hainaut.  PremiÃ¨re Partie ed. by       Curieuses._
-    A. D. No. 7 des Publications de la SociÃ©tÃ© des
+  Particularités Curieuses sur Jacqueline de Bavière, _Particularités
+    Comtesse de Hainaut.  Première Partie ed. by       Curieuses._
+    A. D. No. 7 des Publications de la Société des
     Bibliophiles de Mons. Mons, 1838.
       Extracts from the Register of the City of Mons.
 
   Cartulaire des Contes de Hainaut. Vols, iv., v.,    _Cartulaire._
     vi. Bruxelles, 1889-96.  Collections des
-     Chroniques Belges inÃ©dites.
+     Chroniques Belges inédites.
        A collection of documents taken from the
          various city registers and other sources.
 
-  BeitrÃ¤ge zur Geschichte der JakobÃ¤a von Bayern.     _BeitrÃ¤ge._
+  Beiträge zur Geschichte der Jakobäa von Bayern.     _Beiträge._
     In Abhandlungen der Historischen Classe der
-     KÃ¶niglichen Bayerischen Akademie der
+     Königlichen Bayerischen Akademie der
      Wissenschaften. Band x. Munich, 1867. Erste
      Abtheilung (1401-26), pp. 1-112. Zweite
      Abtheilung (1426-36), pp. 205-336.
@@ -17530,8 +17530,8 @@ _I. PRINTED BOOKS_
           documents and chroniclers.
 
   Aus der Kanzlei Kaiser Sigismunds. Urkundliche
-    BeitrÃ¤ge zur Geschichte des Constanzer Concils.
-    Herausgegeben von J. Caro in Archiv fÃ¼r
+    Beiträge zur Geschichte des Constanzer Concils.
+    Herausgegeben von J. Caro in Archiv für
     Oestreichische Geschichte. Vol. 59. Vienna, 1880.
       Contains some documents relating to Sigismund's
         visit in England.
@@ -17569,7 +17569,7 @@ _I. PRINTED BOOKS_
      Ed. by G. Williams. Rolls Series, No. 56.         Correspondence._
      London, 1872.
 
-  Ã†neae Sylvii Piccolominei, Opera quae extant omnia. _Ã†n. Sylv.,
+  Æneae Sylvii Piccolominei, Opera quae extant omnia. _Æn. Sylv.,
     Basel, 1851.                                       Opera._
 
   Leonardi Bruni Aretini Epistolarum, Libri viii.     _Leonardi Bruni
@@ -17599,7 +17599,7 @@ _I. PRINTED BOOKS_
       letters printed in an appendix.
 
   Veterum scriptorum et monumentorum amplissima       _Amplissima
-    collectio. Ed. by MartÃ¨ne and Durand. Paris,       Collectio._
+    collectio. Ed. by Martène and Durand. Paris,       Collectio._
     1724-33.
 
   Reports of the Historical Manuscripts Commission.   _Hist. MSS. Rep._
@@ -17841,17 +17841,17 @@ _I. PRINTED BOOKS_
         the other chroniclers of the time who wrote
         in French. He lived from 1403 to 1475.
 
-  MÃ©moires de Pierre de FÃ©nin. Ed. Buchon. Paris,     _Pierre de FÃ©nin._
+  Mémoires de Pierre de Fénin. Ed. Buchon. Paris,     _Pierre de Fénin._
     1838.
       A native of Artois who died in 1433.
 
   Chronique du Religieux de Saint Denys.  Ed. by      _St. Denys._
-    M. L. Bellaguet. Collection de Documents inÃ©dits
+    M. L. Bellaguet. Collection de Documents inédits
     sur l'Histoire de France. Paris, 1852.
       A contemporary French chronicler whose work
         comprises the years 1380-1422.
 
-  Chronique de Jean Le Fevre Seigneur de St. RÃ©my.    _St. RÃ©my._
+  Chronique de Jean Le Fevre Seigneur de St. Rémy.    _St. Rémy._
     Ed. Buchon. Paris, 1838.
       Le Fevre was in the English army at Agincourt.
         His chronicle has much in common with those
@@ -17891,7 +17891,7 @@ _I. PRINTED BOOKS_
         and therefore a valuable authority on the
         history of the Jacqueline marriage.
 
-  Das Leben KÃ¶nig Sigmunds von Eberhard Windeck.      _Windeck._
+  Das Leben König Sigmunds von Eberhard Windeck.      _Windeck._
     Uebersetzt von Dr. von Hagen. Leipzig, 1886.
       Windeck was Sigismund's secretary, and
         accompanied him to England.
@@ -17946,7 +17946,7 @@ MISCELLANEOUS AUTHORITIES
   The Governance of England, by Sir John Fortescue.   _Plummer's
     Ed. by C. Plummer. Oxford, 1885.                   Fortescue._
 
-  Ã†gidii Columerae Romani De Regimine Principum       _Ã†gidius, De
+  Ægidii Columerae Romani De Regimine Principum       _Ægidius, De
     Libri Tres. Romae, 1607.                           Regimine
       Egidius was tutor to Philip le Bel of France     Principum._
         when he was Dauphin, for whom this treatise
@@ -17959,7 +17959,7 @@ MISCELLANEOUS AUTHORITIES
       Supposed to have been written by the Duke of
         Orleans while a captive in England.
 
-  De Viris Illustribus, by Ã†neas Sylvius              _Ã†neas Sylvius, De
+  De Viris Illustribus, by Æneas Sylvius              _Æneas Sylvius, De
     Piccolomineus. Strasburg, 1842.                    Viris
       Records of certain celebrities of his time by    Illustribus._
       Pope Pius II.
@@ -17997,8 +17997,8 @@ MISCELLANEOUS AUTHORITIES
      Peter Newcome. London, 1793-95.
 
   Projet d'Assassinat de Philippe le Bon par les      _Desplanque,
-     Anglais, par M. H. Desplanque. In MÃ©moires        Projet
-     CouronnÃ©s par l'AcadÃ©mie Royale de Belgique.      d'Assassinat._
+     Anglais, par M. H. Desplanque. In Mémoires        Projet
+     Couronnés par l'Académie Royale de Belgique.      d'Assassinat._
      Vol. 32. Brussels, 1867.
 
   Das Bundniss von Canterbury, by Jacob Caro.         _Caro, Bundniss
@@ -18076,10 +18076,10 @@ MISCELLANEOUS AUTHORITIES
     von Georg Voigt. Berlin, 1881.
 
   Geschichte der Classichen Litteratur in             _Heeren._
-    Mittelalter, von A. H. L. Heeren. GÃ¶ttingen,
+    Mittelalter, von A. H. L. Heeren. Göttingen,
     1822.
 
-  Histoire LittÃ©raire du Peuple Anglais, by J. J.
+  Histoire Littéraire du Peuple Anglais, by J. J.
     Jusserand. Paris, 1894. London, 1895.
 
   History of English Poetry, by Thomas Warton. Ed.    _Warton._
@@ -18103,19 +18103,19 @@ MISCELLANEOUS AUTHORITIES
   Studji sulle Opere Latine del Boccaccio, by         _Hortis._
     Attilio Hortis. Trieste, 1879.
 
-  Cent Dix Lettres grecques de FranÃ§ois Filelfe.      _Cent Dix Lettres
+  Cent Dix Lettres grecques de François Filelfe.      _Cent Dix Lettres
     Translation et notes de Emile Legrand. Paris,      grecques._
     1892.
 
-  Le Cabinet des Manuscrits de la BibliothÃ¨que
-    ImpÃ©riale, par LÃ©opold Delisle. Paris, 1868.
+  Le Cabinet des Manuscrits de la Bibliothèque
+    Impériale, par Léopold Delisle. Paris, 1868.
 
   Romania, edited by Paul Meyer and Gaston Paris,     _Romania._
     vol. XV. Paris, 1886.
-      _Article_ Les Manuscrits FranÃ§ais de Cambridge,
+      _Article_ Les Manuscrits Français de Cambridge,
         by P. Meyer.
 
-  The AthenÃ¦um Journal, November 17, 1888.            _AthenÃ¦um._
+  The Athenæum Journal, November 17, 1888.            _Athenæum._
     Article on a manuscript translation of Palladius
       'De Re Rustica' in the Library of Earl
       Fitzwilliam at Wentworth-Woodhouse.
@@ -18149,7 +18149,7 @@ MISCELLANEOUS AUTHORITIES
   A History of the University of Oxford to the year
     1530, by H. C. Maxwell-Lyte. London, 1886.
 
-  Froissart. Ã‰tude LittÃ©raire sur le 14me siÃ¨cle, par
+  Froissart. Étude Littéraire sur le 14me siècle, par
     M. Kervyn de Lettenhove. Paris, 1857.
 
   The Italian Renaissance in England, by Lewis        _Einstein._
@@ -18185,17 +18185,17 @@ MODERN HISTORIES AND BIOGRAPHIES
   Henry of Monmouth, by the Rev. J. Endell Tyler.     _Tyler, Henry of
     London, 1838.                                      Monmouth._
 
-  JakobÃ¤a von Bayern und Ihre Zeit, von France von    _LÃ¶her, JakobÃ¤a
-    LÃ¶her. Nordlingen, 1869.                           von Bayern._
+  Jakobäa von Bayern und Ihre Zeit, von France von    _Löher, Jakobäa
+    Löher. Nordlingen, 1869.                           von Bayern._
 
-  A MediÃ¦val Princess. Jacqueline, Countess of        _Putnam, A
-    Holland. By Ruth Putnam. London, 1904.             MediÃ¦val
+  A Mediæval Princess. Jacqueline, Countess of        _Putnam, A
+    Holland. By Ruth Putnam. London, 1904.             Mediæval
                                                        Princess._
 
   Histoire de Charles vii., par Gaston Du Fresne de   _De Beaucort._
     Beaucourt. Paris, 1881-91.
 
-  Le ConnÃ©table de Richemont, par E. Cosneau. Paris,
+  Le Connétable de Richemont, par E. Cosneau. Paris,
     1886.
 
   Geschichte Kaiser Sigmunds, von Joseph Aschbach.    _Aschbach._
@@ -18221,12 +18221,12 @@ MODERN HISTORIES AND BIOGRAPHIES
 
   Episodes in the career of Humphrey, Duke of Gloucester, and his first
     Duchess, and their connexion with the Abbey of St. Albans, by G. R.
-    Wright. In the Journal of the British ArchÃ¦ological Association.
+    Wright. In the Journal of the British Archæological Association.
     London, 1871.
       Slight and incorrect.
 
   Transactions of the St. Albans and Hertfordshire Architectural and
-    ArchÃ¦ological Society, 1903-1904.
+    Archæological Society, 1903-1904.
       Humphrey of Gloucester, by Mrs. Maude C. Knight.
 
   Memoirs of Humphrey, Duke of Gloucester (As they relate to the
@@ -18480,7 +18480,7 @@ INDEX
 
   Aboo-l-Hassan, 345, 433.
 
-  Ã†gidius Romanus, 24, 286, 414, 415, 427, 435.
+  Ægidius Romanus, 24, 286, 414, 415, 427, 435.
 
   Agincourt, battle of, 20, 26, 28-32, 33, 48, 49, 69, 82, 90, 100, 102,
       260, 282, 340, 390.
@@ -18489,7 +18489,7 @@ INDEX
 
   Alcuin of York, 386.
 
-  AlenÃ§on, Duke of, 29, 30, 31, 32.
+  Alençon, Duke of, 29, 30, 31, 32.
 
   ---- siege of, 50, 51;
     truce of, 51;
@@ -18612,7 +18612,7 @@ INDEX
     secures his right to sit in Council, 217;
     accompanies Henry VI. to France, 219;
     appointed to treat with France for peace, 221;
-    becomes liable to the penalties of PrÃ¦munire, 225, 226;
+    becomes liable to the penalties of Præmunire, 225, 226;
     vindicates himself before Parliament, 232-234;
     favours continuation of war, 246;
     treats with French envoys, 259;
@@ -18628,7 +18628,7 @@ INDEX
 
   ---- party, 13, 282, 287, 288, 314.
 
-  BeaugÃ©, battle of, 91, 97.
+  Beaugé, battle of, 91, 97.
 
   Beaugency, capture of, 100, 101.
 
@@ -18893,7 +18893,7 @@ INDEX
 
   Chastellain, George, 451.
 
-  ChÃ¢tel, Tanneguy du, 70.
+  Châtel, Tanneguy du, 70.
 
   Chaucer, Geoffrey, 389, 391, 395, 396, 445.
 
@@ -18934,7 +18934,7 @@ INDEX
     opens up way to Rouen, 70;
     at siege of Rouen, 70-74;
     accompanies Henry V. to Mantes, 78;
-    defeated and slain at BeaugÃ©, 91.
+    defeated and slain at Beaugé, 91.
 
   Clement, Vincent, 323, 376.
 
@@ -18949,7 +18949,7 @@ INDEX
 
   Columella, 365, 368.
 
-  CondÃ©-sur-Noireau, capture of, 57 and note 240.
+  Condé-sur-Noireau, capture of, 57 and note 240.
 
   Constance, Council of, 36, 42, 127, 134, 192, 324, 345, 430.
 
@@ -18959,7 +18959,7 @@ INDEX
 
   Cornwall, Sir John, 27, 71, 176.
 
-  CÃ´tentin, 70, 337; expedition in, 55-59.
+  Côtentin, 70, 337; expedition in, 55-59.
 
   Coutances, capture of, 59.
 
@@ -19054,7 +19054,7 @@ INDEX
 
   Eugenius IV., Pope, 329, 353, 369, 372.
 
-  Eusebius of CÃ¦sarea, 411.
+  Eusebius of Cæsarea, 411.
 
   Everdon, John, 388.
 
@@ -19074,7 +19074,7 @@ INDEX
 
   Fanhope, Lord, 272.
 
-  FÃ©camp, 27;
+  Fécamp, 27;
     capture of, 74;
     Abbot of, 139.
 
@@ -19135,7 +19135,7 @@ INDEX
     hostage for Burgundy's safety at St. Omer, 40-42;
     his retinue for 1417 campaign, 44 and note 184;
     second campaign in France, 45-80;
-    the CÃ´tentin expedition, 55-70;
+    the Côtentin expedition, 55-70;
     probable numbers of his detachment, 56, 64 note 271;
     siege of Cherbourg, 60-68;
     marriage negotiations, 75, 76;
@@ -19463,7 +19463,7 @@ INDEX
 
   Knollys, Sir Robert, 315.
 
-  KÃ¶nisberg, 1.
+  Könisberg, 1.
 
   Kyllynworth, Richard, 194.
 
@@ -19514,7 +19514,7 @@ INDEX
     of the Duke of Milan, 364;
     of Rouen, 345.
 
-  LiÃ©ge, Bishop of. _See_ Bavaria, John Duke of.
+  Liége, Bishop of. _See_ Bavaria, John Duke of.
 
   Lille, 202, 251, 252.
 
@@ -19569,7 +19569,7 @@ INDEX
 
   Lorfevre, Jan, 144 and note 537.
 
-  Lorraine, RenÃ©, Duke of, 75, 283.
+  Lorraine, René, Duke of, 75, 283.
 
   Louviers, capture of, 70.
 
@@ -19642,7 +19642,7 @@ INDEX
     creates Beaufort a Cardinal, 192;
     declares Jacqueline's marriage with Brabant legal, 202;
     induces English and French to hold a Congress at Arras, 244;
-    his contest with Chichele over PrÃ¦munire, 324-327.
+    his contest with Chichele over Præmunire, 324-327.
 
   Maufurney, Gloucester's secretary, 377.
 
@@ -19876,7 +19876,7 @@ INDEX
 
   Poperinghes, 252.
 
-  PrÃ¦munire, Statute of,
+  Præmunire, Statute of,
     used against Bishop of Lincoln, 197, 376;
     used against Beaufort, 226, 233, 234, 326, 327;
     Martin V. objects to, 324, 325.
@@ -20262,7 +20262,7 @@ here were made where obvious errors were made by the printer.
                                                          added.
   p. 323        orthodoxy/o[r]thodoxy                 Added.
   p. 328        Arcdeaconry/Arc[h]deaconry            Added.
-  p. 329        Archeologia/ArchÃ¦ologia               Corrected for
+  p. 329        Archeologia/Archæologia               Corrected for
                                                          consistency.
   p. 353        the latter'[s] friend                 Added.
   p. 431        Epist. Acad., 767[)]                  Added.
@@ -20283,7 +20283,7 @@ End of Project Gutenberg's Humphrey Duke of Gloucester, by K.H. Vickers
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/4/1/4/7/41477/
 
-Produced by Irma Å pehar, KD Weeks and the Online
+Produced by Irma Spehar, KD Weeks and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
 by The Internet Archive/Canadian Libraries)
